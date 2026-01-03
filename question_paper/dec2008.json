@@ -1,0 +1,502 @@
+[
+  {
+    "question_number": 1,
+    "question_text": "If TEAM is coded as VGCO, then LIFE will be coded as:",
+    "options": [
+      "(A) NJGE",
+      "(B) NKHF",
+      "(C) NKHG",
+      "(D) NLIH"
+    ]
+  },
+  {
+    "question_number": 2,
+    "question_text": "Which of the alternatives will fit in ?",
+    "options": [
+      "(A)",
+      "(B)",
+      "(C)",
+      "(D)"
+    ]
+  },
+  {
+    "question_number": 3,
+    "question_text": "How many 7's are there in the following number series which are not followed by 3 but are preceded by 8? 898762263269732872778737794",
+    "options": [
+      "(A) 10",
+      "(B) 2",
+      "(C) 3",
+      "(D) 0"
+    ]
+  },
+  {
+    "question_number": 4,
+    "question_text": "Nitin is counting the numbers in descending order from 32. Shashank is counting the numbers in ascending order from 1 and he pronounces only the odd numbers. If they are counting with the same speed which same number will they pronounce together?",
+    "options": [
+      "(A) 21",
+      "(B) 22",
+      "(C) 19",
+      "(D) None of the above"
+    ]
+  },
+  {
+    "question_number": 5,
+    "question_text": "In the following, English letters are used for various symbols: 'B' for addition, 'G' for subtraction, 'E' for multiplication, 'C' for division, 'D' for equal, 'A' for > and 'F' for <. Which of the following is correct?",
+    "options": [
+      "(A) 18C3D6B8C4G12",
+      "(B) 18A13B16E8G4E12",
+      "(C) 18C3G6B8B4D12",
+      "(D) 18A3E6B8G4B12"
+    ]
+  },
+  {
+    "question_number": 6,
+    "question_text": "Numbers are placed in the following figure on the basis of some rules. One place is vacant which is indicated as (?). Find the correct alternative for vacant place ? [Figure Data: Triangle with 1, 0, 2; Triangle with 3, 4, 6; Triangle with 3, ?, 8; Bottom row numbers: 25, 20, 5, 35, 45]",
+    "options": [
+      "(A) 2",
+      "(B) 3",
+      "(C) 7",
+      "(D) 9"
+    ]
+  },
+  {
+    "question_number": 7,
+    "question_text": "In a survey of 60 people, it was found that 25 read Newsweek magazine; 26 read Time; 26 read Fortune; 9 read both Newsweek and Fortune; 11 read both Newsweek and Time; 8 read both Time and Fortune and 3 read all magazines. Then number of people who read only Newsweek; Time and Fortune respectively are",
+    "options": [
+      "(A) 7, 10 and 12",
+      "(B) 8, 11 and 12",
+      "(C) 8, 10 and 12",
+      "(D) 8, 10 and 13"
+    ]
+  },
+  {
+    "question_number": 8,
+    "question_text": "Which of the following best represents the relationship among tennis fans, cricket players and students?",
+    "options": [
+      "(A)",
+      "(B)",
+      "(C)",
+      "(D)"
+    ]
+  },
+  {
+    "question_number": 9,
+    "question_text": "When a parachutist jumps off a plane and the parachute opens, the total force on the man is:",
+    "options": [
+      "(A) greater than his weight",
+      "(B) less than his weight",
+      "(C) equal to his weight",
+      "(D) zero"
+    ]
+  },
+  {
+    "question_number": 10,
+    "question_text": "Consider the sequence : 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, ... The next four members of sequence are:",
+    "options": [
+      "(A) 55, 89, 144 and 233",
+      "(B) 45, 79, 134 and 223",
+      "(C) 65, 99, 154 and 243",
+      "(D) 54, 89, 144 and 232"
+    ]
+  },
+  {
+    "question_number": 11,
+    "question_text": "Read the following graph (Number of students in Class I vs Academic Year) and decide which of the following statement is false :",
+    "options": [
+      "(A) Number of students in each academic year is divisible by 25",
+      "(B) Number of students in 1999-2000 is more than twice the number in 1995-96",
+      "(C) Number of students in 1995-96: Number of students in 1996-97 is equal to Number of students in 1996-97: No. of students in 1997-98",
+      "(D) The total growth in number of students is not less than 200"
+    ]
+  },
+  {
+    "question_number": 12,
+    "question_text": "Following the constant growth described in the previous diagram, which year first time there will be more than 1111 students in Class I ?",
+    "options": [
+      "(A) 2010",
+      "(B) 2013",
+      "(C) 2016",
+      "(D) 2020"
+    ]
+  },
+  {
+    "question_number": 13,
+    "question_text": "A tyre manufacturing company kept a record of the distance covered before a tyre to be replaced. The following table shows the results of 1000 cases: [Distance in km: Less than 400 (210), 400-900 (325), 900-1400 (385), More than 1400 (80)]. If you buy a tyre of this company, what is the probability that it will need to be replaced before it has covered 400 km?",
+    "options": [
+      "(A) 0.4",
+      "(B) 0.3",
+      "(C) 0.21",
+      "(D) 0.14"
+    ]
+  },
+  {
+    "question_number": 14,
+    "question_text": "As a researcher you find that, the correlation between intensity of punishment and students' achievement is -.86. This means that:",
+    "options": [
+      "(A) higher the intensity of punishment greater would be the achievement",
+      "(B) intensity of punishment has no relation with achievement",
+      "(C) increase in the intensity of punishment will decrease achievement of students",
+      "(D) increase in the intensity of punishment may or may not decrease the achievement of students"
+    ]
+  },
+  {
+    "question_number": 15,
+    "question_text": "In an experimental study you want to study the effectiveness of method of teaching A and B. Each group has 50 randomly selected students. Appropriate technique of data analysis will be :",
+    "options": [
+      "(A) chi-square test",
+      "(B) t-test",
+      "(C) F-test",
+      "(D) multiple regression"
+    ]
+  },
+  {
+    "question_number": 16,
+    "question_text": "Which of the following is used to connect two LAN using same LAN protocols over a wide area ?",
+    "options": [
+      "(A) Router",
+      "(B) Bridges",
+      "(C) Gateways",
+      "(D) None of the above"
+    ]
+  },
+  {
+    "question_number": 17,
+    "question_text": "Which of the following are switching techniques ?",
+    "options": [
+      "(A) Circuit switching",
+      "(B) Message switching",
+      "(C) Packet switching",
+      "(D) Each of the above three techniques"
+    ]
+  },
+  {
+    "question_number": 18,
+    "question_text": "Protocol is used to communicate between:",
+    "options": [
+      "(A) similar module",
+      "(B) dissimilar module",
+      "(C) both (A) and (B)",
+      "(D) none of the above"
+    ]
+  },
+  {
+    "question_number": 19,
+    "question_text": "Data transfer rate for LAN is normally:",
+    "options": [
+      "(A) 1-100 Mbps",
+      "(B) 1-2 Mbps",
+      "(C) 1-10 Mbps",
+      "(D) None of the above"
+    ]
+  },
+  {
+    "question_number": 20,
+    "question_text": "Which of the following are WAN devices ?",
+    "options": [
+      "(A) Bridges",
+      "(B) Routers",
+      "(C) Gateways",
+      "(D) Each of the above three devices"
+    ]
+  },
+  {
+    "question_number": 21,
+    "question_text": "Mushrooms form a promising source of:",
+    "options": [
+      "(A) carbohydrate",
+      "(B) protein",
+      "(C) minerals",
+      "(D) carbohydrate plus lipid"
+    ]
+  },
+  {
+    "question_number": 22,
+    "question_text": "Nuclear energy can be obtained from:",
+    "options": [
+      "(A) fission of radioactive material",
+      "(B) synthetic reactions of radioactive material",
+      "(C) fusion of radioactive material",
+      "(D) both fission and fusion of radioactive material"
+    ]
+  },
+  {
+    "question_number": 23,
+    "question_text": "Petroplants are the sources of:",
+    "options": [
+      "(A) liquid hydrocarbon",
+      "(B) liquid nitrogen",
+      "(C) liquid fuels",
+      "(D) alcohols"
+    ]
+  },
+  {
+    "question_number": 24,
+    "question_text": "Occupational diseases result from:",
+    "options": [
+      "(A) malnutrition",
+      "(B) overworking",
+      "(C) toxic chemical residues",
+      "(D) unadequate basic amenities"
+    ]
+  },
+  {
+    "question_number": 25,
+    "question_text": "Which one among the following is a non-commercial sources of energy ?",
+    "options": [
+      "(A) Coal",
+      "(B) Oil",
+      "(C) Agricultural waste",
+      "(D) Electricity"
+    ]
+  },
+  {
+    "question_number": 26,
+    "question_text": "The research in education has not given due importance to:",
+    "options": [
+      "(A) adolescent student's problems",
+      "(B) adolescent learning styles",
+      "(C) adult student's learning styles",
+      "(D) children's learning styles"
+    ]
+  },
+  {
+    "question_number": 27,
+    "question_text": "Linking Career Advancement Scheme with research publications:",
+    "options": [
+      "(A) enhances quality of research due to increase in quantity",
+      "(B) deteriorates quality of research due to increase in quantity",
+      "(C) enhances quality of research as fund of knowledge is greater",
+      "(D) does not influence quality of research"
+    ]
+  },
+  {
+    "question_number": 28,
+    "question_text": "Which of the following IGNOU does not prescribe ?",
+    "options": [
+      "(A) Flexibility to eligibility for enrolment",
+      "(B) Relaxation of age of entry",
+      "(C) Flexibility to methods of evaluation",
+      "(D) Strict combination of courses of study"
+    ]
+  },
+  {
+    "question_number": 29,
+    "question_text": "Spiritual value never cherishes:",
+    "options": [
+      "(A) non-violence",
+      "(B) respect for all religions",
+      "(C) untouchability",
+      "(D) truth"
+    ]
+  },
+  {
+    "question_number": 30,
+    "question_text": "The POA of NPE, 1992 does not envisage:",
+    "options": [
+      "(A) making education a mass movement",
+      "(B) special emphasis on education of girls",
+      "(C) making English as compulsory language for all",
+      "(D) establishment of pace-setting institutions"
+    ]
+  },
+  {
+    "question_number": 31,
+    "question_text": "Which is not the aim of education ?",
+    "options": [
+      "(A) Completing the syllabus in stipulated time",
+      "(B) Inculcating cognitive competence through subject teaching",
+      "(C) Developing citizenship in the students",
+      "(D) Equipping students with life skills"
+    ]
+  },
+  {
+    "question_number": 32,
+    "question_text": "What will you do to update your competence of teaching?",
+    "options": [
+      "(A) Read books on methods of teaching",
+      "(B) Visit different websites on teaching techniques",
+      "(C) Experimenting with a variety of classroom activities",
+      "(D) Seek guidance from senior teachers"
+    ]
+  },
+  {
+    "question_number": 33,
+    "question_text": "If a learner can use an abstraction-a rule, a principle or an idea in particular and concrete situations, then he has reached the level of educational objective:",
+    "options": [
+      "(A) comprehension",
+      "(B) analysis",
+      "(C) synthesis",
+      "(D) application"
+    ]
+  },
+  {
+    "question_number": 34,
+    "question_text": "How is the working model valued ?",
+    "options": [
+      "(A) By recognition of external features",
+      "(B) By seeing the internal structure",
+      "(C) By seeing both external and internal structures",
+      "(D) By following actions and processes as they develop"
+    ]
+  },
+  {
+    "question_number": 35,
+    "question_text": "Adolescents' problems may be handled by those teachers who have skills of:",
+    "options": [
+      "(A) Managers",
+      "(B) Counsellors",
+      "(C) Psychiatrists",
+      "(D) Therapists"
+    ]
+  },
+  {
+    "question_number": 36,
+    "question_text": "In research operational definition of a variable means:",
+    "options": [
+      "(A) considering different definitions and giving one's own as taken in the present study",
+      "(B) stipulating tasks by which variables can be observed and measured",
+      "(C) explaining operationality to make concept clear",
+      "(D) stipulating concept in all its constituents"
+    ]
+  },
+  {
+    "question_number": 37,
+    "question_text": "In an experimental research, it is essential that researcher :",
+    "options": [
+      "(A) directly controls and manipulates variables",
+      "(B) must take things as they are in an experiment",
+      "(C) must manipulate the variable but need not control",
+      "(D) must control the variable but need not manipulate"
+    ]
+  },
+  {
+    "question_number": 38,
+    "question_text": "The research aims at understanding reality, discovering new knowledge and inventions for development in the society and research ethics certainly can restrain researchers. Considering all aspects it is amicably decided that researchers :",
+    "options": [
+      "(A) will have complete freedom for research",
+      "(B) will not conduct studies involving risks to human beings",
+      "(C) will follow some code of research ethics",
+      "(D) will decide research ethics themselves"
+    ]
+  },
+  {
+    "question_number": 39,
+    "question_text": "The law of probability is applied in:",
+    "options": [
+      "(A) purposive sampling",
+      "(B) random sampling",
+      "(C) quota sampling",
+      "(D) convenient sampling"
+    ]
+  },
+  {
+    "question_number": 40,
+    "question_text": "If a researcher wants to study the performance of university teachers by students which tool will be most appropriate ?",
+    "options": [
+      "(A) Questionnaire",
+      "(B) Interview",
+      "(C) Rating scale",
+      "(D) Observation schedule"
+    ]
+  },
+  {
+    "question_number": 41,
+    "question_text": "Read the text on decision-making. What is the central idea of this paragraph ?",
+    "options": [
+      "(A) Decision-making is a mathematical activity",
+      "(B) Decision-making is a complex intellectual activity",
+      "(C) Decision-making is almost impossible",
+      "(D) Decision-making is also emotional and social in nature"
+    ]
+  },
+  {
+    "question_number": 42,
+    "question_text": "What is the major source of puzzlement in decision-making ?",
+    "options": [
+      "(A) An exact prediction of the results of the decision",
+      "(B) Socio-political context",
+      "(C) Ignorance of Mathematics",
+      "(D) Lack of adequate practice"
+    ]
+  },
+  {
+    "question_number": 43,
+    "question_text": "Which step is not inevitable in the process of decision-making ?",
+    "options": [
+      "(A) Recognizing the factors affecting the process",
+      "(B) Thinking of the end product one would wish to achieve",
+      "(C) Using quantitative measures",
+      "(D) Forecasting outcomes in advance"
+    ]
+  },
+  {
+    "question_number": 44,
+    "question_text": "Decision-making is an art, because:",
+    "options": [
+      "(A) it involves a lot of variables",
+      "(B) it depends upon a person's multiple abilities",
+      "(C) it entails some personal perspectives",
+      "(D) it does not ensure the best outcome"
+    ]
+  },
+  {
+    "question_number": 45,
+    "question_text": "\"Various ethical concerns such as fairness may well need consideration\" means:",
+    "options": [
+      "(A) a decision is value-free",
+      "(B) it is fair to think about needs of people affected by the decision",
+      "(C) your decision must do justice to all",
+      "(D) morality is a criterion of a good decision"
+    ]
+  },
+  {
+    "question_number": 46,
+    "question_text": "A student is speaking fast with irregular rhythm and long breaks in between. This indicates :",
+    "options": [
+      "(A) excitement",
+      "(B) sense of purpose",
+      "(C) nervousness",
+      "(D) frustration"
+    ]
+  },
+  {
+    "question_number": 47,
+    "question_text": "What does 'You' attitude imply in spoken or written communication ?",
+    "options": [
+      "(A) Think and express from the sender's point of view",
+      "(B) Think and express from the receiver's point of view",
+      "(C) Give maximum opportunity to the listener for expression",
+      "(D) Never forget who you are"
+    ]
+  },
+  {
+    "question_number": 48,
+    "question_text": "A speech that is outlined, practised and delivered in a conversation style is:",
+    "options": [
+      "(A) hat speech",
+      "(B) indirect speech",
+      "(C) extemporaneous",
+      "(D) manuscripted"
+    ]
+  },
+  {
+    "question_number": 49,
+    "question_text": "To communicate effectively with college level students, the teacher requires:",
+    "options": [
+      "(A) to keep appropriate distance with the students",
+      "(B) to have mastery over the subject",
+      "(C) to know his students well",
+      "(D) to look directly into the eyes of the students"
+    ]
+  },
+  {
+    "question_number": 50,
+    "question_text": "Which factor leads to the most successful communication ?",
+    "options": [
+      "(A) Speaker's knowledge about the process of communication",
+      "(B) Empathy with the receiver",
+      "(C) Use of multiple channels",
+      "(D) Admiration from the receiver"
+    ]
+  }
+]
