@@ -1,0 +1,602 @@
+[
+  {
+    "question_number": 1,
+    "question_text": "Read the text on the algorithmic theory of beauty. According to the algorithmic theory:",
+    "options": [
+      "(A) subjective perceptions of observers' cannot be systematically classified",
+      "(B) there is no correlation between subjective observation and beauty",
+      "(C) there is a positive correlation between beauty and minimum description",
+      "(D) perception of beauty is unpredictable"
+    ]
+  },
+  {
+    "question_number": 2,
+    "question_text": "The formal language of mathematics",
+    "options": [
+      "(A) prefers simple proof which may or may not be elaborate",
+      "(B) prefers the least elaborate description and repetition",
+      "(C) may be complex even as it provides a short description",
+      "(D) ensures simplicity and bravity"
+    ]
+  },
+  {
+    "question_number": 3,
+    "question_text": "The author of the passage suggests that Leonardo da Vinci:",
+    "options": [
+      "(A) was a precursor of the algorithmic theory of information",
+      "(B) predicted the algorithmic theory of beauty",
+      "(C) produced proportion studies that support algorithmic theory of beauty",
+      "(D) gave a theory of subjectively perceived aesthetics"
+    ]
+  },
+  {
+    "question_number": 4,
+    "question_text": "Which of the following is not true ?",
+    "options": [
+      "(A) What is interesting is not always beautiful",
+      "(B) We perceive beauty when we discover symmetry",
+      "(C) Mathematicians prefer short descriptions",
+      "(D) We can distinguish between what is interesting and what is beautiful"
+    ]
+  },
+  {
+    "question_number": 5,
+    "question_text": "How do we perceive beauty ?",
+    "options": [
+      "(A) By noticing patterns of similarity",
+      "(B) By subjective observation",
+      "(C) By identifying a pleasing human face",
+      "(D) By producing the shortest description"
+    ]
+  },
+  {
+    "question_number": 6,
+    "question_text": "An appropriate title for the passage would be :",
+    "options": [
+      "(A) Leonardo da Vinci on Beauty",
+      "(B) Aesthetics and Mathematics",
+      "(C) Algorithmic theory of Beauty",
+      "(D) The Beautiful and the Interesting"
+    ]
+  },
+  {
+    "question_number": 7,
+    "question_text": "The gas leaked during Bhopal disaster was:",
+    "options": [
+      "(A) ethyl cyanoacetate",
+      "(B) ethyl cyanoacrylate",
+      "(C) methyl isocyanate",
+      "(D) methyl diisocyanate"
+    ]
+  },
+  {
+    "question_number": 8,
+    "question_text": "The audible range of frequency for human ear is",
+    "options": [
+      "(A) 10 Hz to 10 kHz",
+      "(B) 20 Hz to 20 kHz",
+      "(C) 10 Hz to 20 kHz",
+      "(D) 10 Hz to 30 kHz"
+    ]
+  },
+  {
+    "question_number": 9,
+    "question_text": "If waste materials contaminate the source of drinking water, which of the following diseases will spread?",
+    "options": [
+      "(A) Scurvy",
+      "(B) Typhoid",
+      "(C) Malaria",
+      "(D) Anaemia"
+    ]
+  },
+  {
+    "question_number": 10,
+    "question_text": "Which of the following is most likely to limit primary production in fresh water lakes?",
+    "options": [
+      "(A) Oxygen",
+      "(B) Calcium",
+      "(C) Phosphorus",
+      "(D) Carbon"
+    ]
+  },
+  {
+    "question_number": 11,
+    "question_text": "Which of the following is not a major greenhouse gas?",
+    "options": [
+      "(A) Carbon dioxide",
+      "(B) Methane",
+      "(C) Water vapour",
+      "(D) Calcium carbonate"
+    ]
+  },
+  {
+    "question_number": 12,
+    "question_text": "Tsunami is caused due to :",
+    "options": [
+      "(A) Giant high tide waves in ocean",
+      "(B) Oceanic bad weather conditions",
+      "(C) Sudden motion of the ocean floor",
+      "(D) Intercontinental collisions in the ocean"
+    ]
+  },
+  {
+    "question_number": 13,
+    "question_text": "The full form of FTP is:",
+    "options": [
+      "(A) File Transfer Protocol",
+      "(B) File Transfer Program",
+      "(C) File Transfer Property",
+      "(D) File Transfer Problem"
+    ]
+  },
+  {
+    "question_number": 14,
+    "question_text": "For proper functioning of computers, which of the following is not recommended ?",
+    "options": [
+      "(A) Anti-virus should always be activated",
+      "(B) Always use authorized softwares",
+      "(C) Never connect to internet",
+      "(D) Never allow external data devices on your PC without checking for viruses"
+    ]
+  },
+  {
+    "question_number": 15,
+    "question_text": "If '10110110' is written on a paper, what does it mean?",
+    "options": [
+      "(A) Data",
+      "(B) Information",
+      "(C) Knowledge",
+      "(D) Wisdom"
+    ]
+  },
+  {
+    "question_number": 16,
+    "question_text": "Which of the following is not a characteristic of information ?",
+    "options": [
+      "(A) It is unchangeable with time",
+      "(B) It is meaningful to the receiver",
+      "(C) It is relevant to the activity",
+      "(D) It is clear and concise"
+    ]
+  },
+  {
+    "question_number": 17,
+    "question_text": "The selection of information and communication technological tools should essentially depend on:",
+    "options": [
+      "(A) Technological infrastructure",
+      "(B) Learner's access to the technology",
+      "(C) The support personnel",
+      "(D) All of the above"
+    ]
+  },
+  {
+    "question_number": 18,
+    "question_text": "Which of the following is a soft copy output device ?",
+    "options": [
+      "(A) Printer",
+      "(B) Visual Display Unit (VDU)",
+      "(C) CD-ROM",
+      "(D) Both (A) and (B) of the above"
+    ]
+  },
+  {
+    "question_number": 19,
+    "question_text": "Which of the following is correct sequence of steps in scientific method?",
+    "options": [
+      "(A) Observation, Deduction of consequences, Hypothesizing, Verification",
+      "(B) Verification, Hypothesizing, Observation, Deduction of consequences",
+      "(C) Observation, Hypothesizing, Deduction of consequences, Verification",
+      "(D) Hypothesizing, Observation, Verification, Deduction of consequences"
+    ]
+  },
+  {
+    "question_number": 20,
+    "question_text": "A research carried out by a practitioner is called:",
+    "options": [
+      "(A) Applied Research",
+      "(B) Basic Research",
+      "(C) Action Research",
+      "(D) Experimental Research"
+    ]
+  },
+  {
+    "question_number": 21,
+    "question_text": "Sampling procedure in which every subject of a population has equal chance of being selected is called:",
+    "options": [
+      "(A) Purposive sampling",
+      "(B) Cluster sampling",
+      "(C) Probability sampling",
+      "(D) Non-probability sampling"
+    ]
+  },
+  {
+    "question_number": 22,
+    "question_text": "In research, reliability indicates:",
+    "options": [
+      "(A) Precision in measurement",
+      "(B) Error in measurement",
+      "(C) Replicability in measurement",
+      "(D) Generalisability in measurement"
+    ]
+  },
+  {
+    "question_number": 23,
+    "question_text": "An example of non-empirical research is :",
+    "options": [
+      "(A) Philosophical",
+      "(B) Historical",
+      "(C) Survey",
+      "(D) Experimental"
+    ]
+  },
+  {
+    "question_number": 24,
+    "question_text": "Delimitation in research report refers to:",
+    "options": [
+      "(A) Setting limits to the problem of research",
+      "(B) Limitation of the researcher in studying the problem",
+      "(C) Defining the research problem",
+      "(D) Alternative to scope of the problem"
+    ]
+  },
+  {
+    "question_number": 25,
+    "question_text": "The main purpose of classroom teaching is to:",
+    "options": [
+      "(A) prepare students for examination",
+      "(B) make students content expert",
+      "(C) develop competitive spirit among students",
+      "(D) make students apply disciplinary knowledge to life"
+    ]
+  },
+  {
+    "question_number": 26,
+    "question_text": "Which of the following has potential to influence learning ?",
+    "options": [
+      "(A) Socio-economic status",
+      "(B) Ability to express",
+      "(C) Study habits",
+      "(D) Ability of books"
+    ]
+  },
+  {
+    "question_number": 27,
+    "question_text": "Which of the following factors contributes towards effective teaching ?",
+    "options": [
+      "(A) Knowledge of teaching methods and learners",
+      "(B) Knowledge of content and institution",
+      "(C) Knowledge of teaching method and institution",
+      "(D) Knowledge of learner and computer"
+    ]
+  },
+  {
+    "question_number": 28,
+    "question_text": "Which of the following is the advantage of lecture method ?",
+    "options": [
+      "(A) Effective face-to-face teaching",
+      "(B) Ensures attention of all students",
+      "(C) Caters to all individual differences",
+      "(D) Suitable for large group teaching"
+    ]
+  },
+  {
+    "question_number": 29,
+    "question_text": "Teachers use teaching aids, because:",
+    "options": [
+      "(A) Some teachers are incapable of teaching on their own",
+      "(B) Students require some change while learning",
+      "(C) It is necessary to reach the students' level of understanding",
+      "(D) To use the updated technology of teaching"
+    ]
+  },
+  {
+    "question_number": 30,
+    "question_text": "Internal assessment marks are to be:",
+    "options": [
+      "(A) kept confidential",
+      "(B) revealed to students",
+      "(C) based on attendance",
+      "(D) used as gracing marks"
+    ]
+  },
+  {
+    "question_number": 31,
+    "question_text": "Efficacy and effectiveness of communication can be assessed through:",
+    "options": [
+      "(A) Reception",
+      "(B) Feedback",
+      "(C) Transmission",
+      "(D) Encoding"
+    ]
+  },
+  {
+    "question_number": 32,
+    "question_text": "Which one of the following aspects has no influence in face-to-face communication ?",
+    "options": [
+      "(A) Language ability",
+      "(B) Facial expressions",
+      "(C) Location",
+      "(D) Acquaintance"
+    ]
+  },
+  {
+    "question_number": 33,
+    "question_text": "Which of the following is not a type of communication ?",
+    "options": [
+      "(A) Vertical communication",
+      "(B) Horizontal communication",
+      "(C) Crosswise communication",
+      "(D) Verbal communication"
+    ]
+  },
+  {
+    "question_number": 34,
+    "question_text": "Noise in communication is to:",
+    "options": [
+      "(A) Block the media",
+      "(B) Distort the message codes",
+      "(C) Add on the message codes",
+      "(D) Distort the decoding"
+    ]
+  },
+  {
+    "question_number": 35,
+    "question_text": "Which of the following is a pre-requisite for effective classroom communication ?",
+    "options": [
+      "(A) Reflective questioning",
+      "(B) Elaborate explanation",
+      "(C) Drawing attention of students",
+      "(D) Planning the lesson"
+    ]
+  },
+  {
+    "question_number": 36,
+    "question_text": "Which of the following is not a feedback loop in classroom communication?",
+    "options": [
+      "(A) Answering a question",
+      "(B) Taking down the notes",
+      "(C) Creating disturbance",
+      "(D) Cross-questioning the teacher"
+    ]
+  },
+  {
+    "question_number": 37,
+    "question_text": "Participation of students representatives in higher education governing bodies is advisable to:",
+    "options": [
+      "(A) treat students community at par with teacher",
+      "(B) prepare future politicians",
+      "(C) promote democratic citizenship",
+      "(D) provide extra privilege to subside student unrest"
+    ]
+  },
+  {
+    "question_number": 38,
+    "question_text": "Researches in the area of environmental education fall under:",
+    "options": [
+      "(A) Inter-disciplinary research",
+      "(B) Multi-disciplinary research",
+      "(C) Intra-disciplinary research",
+      "(D) Uni-disciplinary research"
+    ]
+  },
+  {
+    "question_number": 39,
+    "question_text": "The purpose of distance education in India is to:",
+    "options": [
+      "(A) provide degrees economically",
+      "(B) generate large number of graduates",
+      "(C) increase the rate of higher education",
+      "(D) reach the unreachables"
+    ]
+  },
+  {
+    "question_number": 40,
+    "question_text": "Teaching at higher education is:",
+    "options": [
+      "(A) not a job, though salaried",
+      "(B) not a time based activity",
+      "(C) not a contractual activity",
+      "(D) not a cost effective activity"
+    ]
+  },
+  {
+    "question_number": 41,
+    "question_text": "How can teacher inculcate values among students ?",
+    "options": [
+      "(A) By imposing discipline",
+      "(B) By behaving ideally",
+      "(C) By telling life histories of great people",
+      "(D) By telling moral stories"
+    ]
+  },
+  {
+    "question_number": 42,
+    "question_text": "Educational institutes' accrediting bodies are:",
+    "options": [
+      "(A) Government bodies to control and regulate Government policies",
+      "(B) Statutory bodies to maintain quality of education",
+      "(C) Bodies to control management indulging in large profits",
+      "(D) Bodies to improve examination system of educational institution"
+    ]
+  },
+  {
+    "question_number": 43,
+    "question_text": "Complete the sequence of squares by choosing the correct figure from the given alternatives: [Visual Sequence]",
+    "options": [
+      "(A) [Figure A]",
+      "(B) [Figure B]",
+      "(C) [Figure C]",
+      "(D) [Figure D]"
+    ]
+  },
+  {
+    "question_number": 44,
+    "question_text": "Put the correct letter for '?' in the following diagram: [Matrix: C, B, F; D, C, ?; E, D, T]",
+    "options": [
+      "(A) H",
+      "(B) L",
+      "(C) M",
+      "(D) P"
+    ]
+  },
+  {
+    "question_number": 45,
+    "question_text": "Take Universal set U = {A, B, C, ... Z} of all English alphabets. If set A contains letters from GUJARAT, B from PUNJAB, C from SIKKIM and D from TAMILNADU, then the Venn diagram for sets A, B, C, D will be:",
+    "options": [
+      "(A) [Venn Diagram A]",
+      "(B) [Venn Diagram B]",
+      "(C) [Venn Diagram C]",
+      "(D) [Venn Diagram D]"
+    ]
+  },
+  {
+    "question_number": 46,
+    "question_text": "A fighter pilot notices a row of several tanks of enemy. He attacks on the tank T at the middle in the row. He then attacks on one more tank T1 in that row immediately preceding to T. In order to finish the last tank in that row, he has to attack 9th tank counting in order from T1. The total number of tanks in that row is:",
+    "options": [
+      "(A) 13",
+      "(B) 11",
+      "(C) 17",
+      "(D) 15"
+    ]
+  },
+  {
+    "question_number": 47,
+    "question_text": "Fill in the cell of '?' by putting the correct letter : [Matrix: G, B, C; H, F, H; A, D, ?]",
+    "options": [
+      "(A) G",
+      "(B) E",
+      "(C) P",
+      "(D) N"
+    ]
+  },
+  {
+    "question_number": 48,
+    "question_text": "Which member of the following set differs from the other members ? (OX, GIRAFFE, CAMEL, DOG, GOAT, ELEPHANT, DEER)",
+    "options": [
+      "(A) DOG",
+      "(B) DEER",
+      "(C) CAMEL",
+      "(D) OX"
+    ]
+  },
+  {
+    "question_number": 49,
+    "question_text": "Put the number in the empty box by choosing the correct digit from the given alternatives: [Matrix: 7, 3, 6; 5, 4, 7; 8, ?, 2]",
+    "options": [
+      "(A) 9",
+      "(B) 6",
+      "(C) 5",
+      "(D) 3"
+    ]
+  },
+  {
+    "question_number": 50,
+    "question_text": "If a * b = b / a then which of the following statements is not true? (a and b are real numbers)",
+    "options": [
+      "(A) a * 0 = 0, a is not 0",
+      "(B) 0 * b = 0, b is not 0",
+      "(C) 1 * 1 = 1",
+      "(D) a * a = 1, a is not 0"
+    ]
+  },
+  {
+    "question_number": 51,
+    "question_text": "For which set of values of p, q, P, Q and for which arithmetic operation, the expression: (p/P) * (q/Q) = -1 ?",
+    "options": [
+      "(A) p=-1, q=5, P=Q=-4 and * is '+'",
+      "(B) p=P=1, q=Q=-1 and * is 'x'",
+      "(C) p=Q=-1, q=P=1 and * is '-'",
+      "(D) p=q=P=1, Q=-1 and * is '/'"
+    ]
+  },
+  {
+    "question_number": 52,
+    "question_text": "Complete the sequence by putting the appropriate number from the given alternatives: 12, 15, 16, 20, 20, 25, 24, ?",
+    "options": [
+      "(A) 24",
+      "(B) 30",
+      "(C) 27",
+      "(D) 35"
+    ]
+  },
+  {
+    "question_number": 53,
+    "question_text": "What is the appropriate missing letter in the following sequence ? A, B, D, H, ?",
+    "options": [
+      "(A) I",
+      "(B) L",
+      "(C) M",
+      "(D) P"
+    ]
+  },
+  {
+    "question_number": 54,
+    "question_text": "If l = sqrt(3), m = 1/7, n = 2 and t = 5/4 then l^2 * m n o t = -11/28 for",
+    "options": [
+      "(A) *, square and o are all '-'",
+      "(B) * is +, square is +, o is '-'",
+      "(C) * is -, square is -, o is '+'",
+      "(D) *, square and o are all '+'"
+    ]
+  },
+  {
+    "question_number": 55,
+    "question_text": "What is the difference between the number of washing machines manufactured by company B in 1997 and 1998? [Data from Graph: B(1997)=119, B(1998)=99]",
+    "options": [
+      "(A) 10,000",
+      "(B) 11,000",
+      "(C) 20,000",
+      "(D) 30,000"
+    ]
+  },
+  {
+    "question_number": 56,
+    "question_text": "What is approximate average number of washing machines manufactured by company A over the given period ?",
+    "options": [
+      "(A) 123666",
+      "(B) 741999",
+      "(C) 431555",
+      "(D) 310111"
+    ]
+  },
+  {
+    "question_number": 57,
+    "question_text": "In which year the difference between the production of companies A and B was minimum ?",
+    "options": [
+      "(A) 1997",
+      "(B) 1998",
+      "(C) 2002",
+      "(D) 2001"
+    ]
+  },
+  {
+    "question_number": 58,
+    "question_text": "Given the table of marks obtained by two candidates P and Q in four papers. Arrange in increasing order the % marks obtained by the candidate P. The sequence of papers is:",
+    "options": [
+      "(A) I, II, IV, III",
+      "(B) I, III, II, IV",
+      "(C) I, IV, III, II",
+      "(D) II, III, I, IV"
+    ]
+  },
+  {
+    "question_number": 59,
+    "question_text": "Based on the table: In which paper(s) the candidate Q obtained the distinction ?",
+    "options": [
+      "(A) III",
+      "(B) II, III",
+      "(C) II, III, IV",
+      "(D) II"
+    ]
+  },
+  {
+    "question_number": 60,
+    "question_text": "Based on the table: Approximate % results of candidates P and Q will respectively, be:",
+    "options": [
+      "(A) 70% and 80%",
+      "(B) 70% and 60%",
+      "(C) 70% and 50%",
+      "(D) 71% and 70%"
+    ]
+  }
+]
