@@ -1,0 +1,860 @@
+{
+  "filename": "dec21p1.pdf",
+  "booklet_no": "317137",
+  "booklet_type": "A",
+  "paper": "PAPER - I",
+  "exam_date": "DEC-21",
+  "total_questions": 50,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text_en": "Identify which of the following steps are carried out for constant comparison in grounded theory research?",
+      "question_text_gu": "ભૂમિગત સિદ્ધાંત સંશોધનમાં સતત તુલના માટે નીચેમાંથી ક્યા પગલા લેવામાં આવે છે તે ઓળખો,",
+      "options_en": {
+        "A": "Data collection, note taking, coding and memoing",
+        "B": "Data collection, data reduction, data display, conclusion drawing and verification",
+        "C": "Data collection, axial coding, categorization and narrative description",
+        "D": "Data collection, contrasting, comparing and generating themes and patterns"
+      },
+      "options_gu": {
+        "A": "ડેટા સંગ્રહ, નોટ લેવાનું, કોડિંગ અને મેમોઈગ",
+        "B": "ડેટા સંગ્રહ, ડેટા રિડક્શન, ડેટા દર્શાવે, નિષ્કર્ષ શોધવાનું અને ચકાસણી",
+        "C": "ડેટા સંગ્રહ, એક્સિલ કોડિંગ, વર્ગીકરણ અને કથા વર્ણન",
+        "D": "ડેટા સંગ્રહ, વિરોધાભાસી, તુલના, થીમ અને પેટર્નનું સર્જન"
+      }
+    },
+    {
+      "question_number": 2,
+      "question_text_en": "Which of the following is common in all true experimental and Quasi experimental designs?",
+      "question_text_gu": "સાચી પ્રાયોગિક યોજના અને આંશિક પ્રાયોગિક યોજના માટે આમાથી કયું સામાન્ય છે ?",
+      "options_en": {
+        "A": "Control group",
+        "B": "Randomization",
+        "C": "Pre-testing and post-testing",
+        "D": "Pre-testing"
+      },
+      "options_gu": {
+        "A": "નિયંત્રિત જૂથ",
+        "B": "યાદચ્છિકીકરણ",
+        "C": "પૂર્વ કસોટી અને ઉત્તર કસોટી",
+        "D": "પૂર્વ કસોટી"
+      }
+    },
+    {
+      "question_number": 3,
+      "question_text_en": "Find the wrong term in the letter-number series given below.\nG4T, J10R, M20P, P43N, S90L",
+      "question_text_gu": "નીચે આપેલી લેટર નંબર શ્રેણીમા ખોટી મુદત શોધો.\nG4T, J10R, M20P, P43N, S90L",
+      "options_en": {
+        "A": "G4T",
+        "B": "J10R",
+        "C": "M20P",
+        "D": "P43N"
+      },
+      "options_gu": {
+        "A": "G4T",
+        "B": "J10R",
+        "C": "M20P",
+        "D": "P43N"
+      }
+    },
+    {
+      "question_number": 4,
+      "question_text_en": "A cube whose each corner is named as A, B, C, D, F, G and H is segmented into 27 equal tiny cubes. Before dividing the cube, each face of its varnished with different colours. How many tiny cubes will be formed having more than one colour?",
+      "question_text_gu": "એક ઘન કે જેનો દરેક ખૂણો એ,બી,સી, ડી, એફ, જી અને એચ તરીકે નામિત છે, તેને 27 સમાન નાના ટુકડાઓમાં વિભાજિત કરવામા આવ્યો છે. ઘનને વિભાજીત કરતા પહેલા તેના દરેક સપાટીને જુદા જુદા રંગ થી વાર્નિશ કરવામાં આવે છે. એક થી વધુ રંગ ધરાવતા કેટલા નાના ટુકડાઓ બનાવવામાં આવશે?",
+      "options_en": {
+        "A": "64",
+        "B": "20",
+        "C": "55",
+        "D": "53"
+      },
+      "options_gu": {
+        "A": "64",
+        "B": "20",
+        "C": "55",
+        "D": "53"
+      }
+    },
+    {
+      "question_number": 5,
+      "question_text_en": "Which of the following is not true in relation to 'SWAYAM'?",
+      "question_text_gu": "નીચે પૈકી શું “સ્વયમ” (SWAYAM) ના સંદર્ભમાં સાચું નથી.",
+      "options_en": {
+        "A": "It is Sanskrit acronym that stands for 'Study Webs of Active-Learning for Young Aspiring Minds'",
+        "B": "It is an Indian Massive Open Online Course (MOOC) platform",
+        "C": "It has been developed jointly by MHRD (now MoE) and UGC with the help of Infosys",
+        "D": "It is under 'Digital India' to give a coordinated stage and free entry to web courses covering all advance education and skill sector courses"
+      },
+      "options_gu": {
+        "A": "આ એક સંસ્કૃત કહેવતનો ટૂંકસાર છે. 'સ્ટડી વેબ ઓફ એક્ટીવ લર્નિંગ ફોર યંગ એસ્પાયરીંગ માઈન્ડ'",
+        "B": "આ મેસિવ ઓપન ઓનલાઈન કોર્ષનું ભારતીય સંસ્કરણ છે",
+        "C": "આને MHRD (હવે MOE) અને UGC એ ઈન્ફોસીસની સહાયથી તૈયાર કર્યું છે",
+        "D": "આ 'ડીજીટલ ઈન્ડીયા' અંતર્ગત આવે છે, જેમાં બધાં કૌશલ્યોના અભ્યાસક્રમો તથા પ્રગત શિક્ષણ માટે વેબ કોર્ષના પ્રવેશ માટે સમન્વીત મંચ પૂરું પાડવામાં આવે છે"
+      }
+    },
+    {
+      "question_number": 6,
+      "question_text_en": "Which of the following are game based learning platforms?\na. Kahoot\nb. Socrative\nc. Quizizz\nd. e-PG Pathshala\ne. Edmodo",
+      "question_text_gu": "નીચે પૈકી શું રમત આધારિત અધ્યયન પ્લેટફોર્મ છે ?\na. Kahoot\nb. Socrative\nc. Quizizz\nd. e-PG Pathshala\ne. Edmodo",
+      "options_en": {
+        "A": "e, d and b",
+        "B": "a, b and c",
+        "C": "a, c and d",
+        "D": "c, e and a"
+      },
+      "options_gu": {
+        "A": "e, d અને b",
+        "B": "a, b અને c",
+        "C": "a, c અને d",
+        "D": "c, e અને a"
+      }
+    },
+    {
+      "question_number": 7,
+      "question_text_en": "In a certain relationship\n$M/N$ means M is daughter of N\n$M+N$ means M is father of N\nM-N means M is mother of N\nAnswer the following question based on data above.\nIn the pattern $F^{*}G/H-I$, how is I related to G?",
+      "question_text_gu": "ચોક્કસ સંબંધમાં\nM/N નો અર્થ M દીકરી છે N ની\nM + N નો અર્થ M પિતા છે N ના\nM-N નો અર્થ M માતા છે N ની\nઉપરની માહિતીને આધારે નીચેના પ્રશ્નોના જવાબ આપો.\nF*G/H-I ની તરાહમા I કઈ રીતે G સાથે સંબંધિત છે ?",
+      "options_en": {
+        "A": "Mother",
+        "B": "Sister",
+        "C": "Niece",
+        "D": "No relation"
+      },
+      "options_gu": {
+        "A": "માતા",
+        "B": "બહેન",
+        "C": "ભત્રીજી",
+        "D": "કોઈ સંબંધ નહીં"
+      }
+    },
+    {
+      "question_number": 8,
+      "question_text_en": "In the following figure triangle represents 'girls', square 'players' and circle 'coach'. Which part of the diagram represents the girls are player but not coach?",
+      "question_text_gu": "નીચે આપેલ આકૃતિમાં ત્રિકોણ 'છોકરીઓ'નું પ્રતિનિધિત્વ કરે છે. ચોરસ 'ખેલાડીઓ'નું અને વર્તુળ – 'કોચનું' પ્રતિનિધિત્વ કરે છે. આકૃતિનો કયો ભાગ છોકરીઓને દર્શાવે છે. જે ખેલાડી છે પણ કોચ નથી?",
+      "options_en": {
+        "A": "P",
+        "B": "Q",
+        "C": "R",
+        "D": "S"
+      },
+      "options_gu": {
+        "A": "P",
+        "B": "Q",
+        "C": "R",
+        "D": "S"
+      }
+    },
+    {
+      "question_number": 9,
+      "question_text_en": "If a student ask you a question whose answer is not known to you, then\n1. Give this question as a homework and start teaching.\n2. Tell him this question will be answered the next day.\n3. Ask him to come later and then send him to library.\n4. After the class you will go to library and try to find the answer.\n5. Appreciate the question and accept that you don't have information right now.",
+      "question_text_gu": "તમને એક વિદ્યાર્થી પ્રશ્ન પૂછે છે, જેનો જવાબ તમને આવડતો નથી, તો\n1. પ્રશ્નને ગૃહકાર્ય તરીકે આપશો અને ભણાવવાનું શરૂ રાખશો.\n2. તેને કહેશો કે આ પ્રશ્નનો જવાબ તમને આવતી કાલે આપવામાં આવશે,\n3. તેને થોડા સમય બાદ આવવાનું કહો અને પછી તેને પુસ્તકાલયમાં મોકલી દો.\n4. ક્લાસ પૂર્ણ થયા બાદ તમે પૂસ્તકાલયમાં જશે અને જવાબ શોધવાનો પ્રયત્ન કરશો.\n5. પ્રશ્નના વખાણ કરશો અને સ્વીકારશો કે હાલમાં તમને જવાબની જાણ નથી.",
+      "options_en": {
+        "A": "1, 2 and 4",
+        "B": "3, 4 and 5",
+        "C": "2, 4 and 5",
+        "D": "2, 3 and 5"
+      },
+      "options_gu": {
+        "A": "1, 2 ને 4",
+        "B": "3, 4 ને 5",
+        "C": "2, 4 અને 5",
+        "D": "2, 3 ને 5"
+      }
+    },
+    {
+      "question_number": 10,
+      "question_text_en": "Which of the following is most applicable to split half method of finding reliability ?",
+      "question_text_gu": "નીચે પૈકી ક્યું સહસંબંધની શોધતી સ્પલીટ હાફ મેથડ માટે સૌથી વધારે ઉપયુક્ત છે",
+      "options_en": {
+        "A": "It shows the internal consistency of the test",
+        "B": "It shows the internal consistency of half of the test",
+        "C": "It can be used for tests having both subjective and objective type questions",
+        "D": "It can be used for tests with any number of items"
+      },
+      "options_gu": {
+        "A": "તે કસોટીની આંતરિક સાતત્ય દર્શાવે છે",
+        "B": "આંતરિક સાતત્ય અડધી કસોટીમા દર્શાવે છે",
+        "C": "આ વસ્તુલક્ષી અને વિષયનિષ્ટ બન્ને પરીક્ષણમા વપરાય છે",
+        "D": "ગમે તેટલી સંખ્યાની કલમો માટે આ પરીક્ષણનો ઉપયોગ થઈ શકે છે"
+      }
+    },
+    {
+      "question_number": 11,
+      "question_text_en": "Match the List - I with List - II and choose the correct option given below.\n\nList-I\n1. National Institute of Educational Planning and Administration (NIEPA)\n2. Tata Institute of Social Sciences (TISS)\n3. Mahatma Gandhi Antarrashtriya Hindi Vishwavidyalaya (MGAHV)\n4. Visva-Bharati\n\nList - II\na. Deemed to be a University, 1964, under Section 3 of UGC Act, 1956\nb. A Central University and An Institution of National Importance\nc. A Central University, established by an Act of Parliament, Act No. 3 of 1997\nd. Deemed to be University, 2006, under Section 3 of UGC Act, 1956",
+      "question_text_gu": "યાદી-I અને – II માંથી યોગ્ય વિકલ્પ પસંદ કરી જવાબ પસંદ કરો.\n\nયાદી - I\n1. નેશનલ ઈન્સ્ટીટ્યૂટ ઓફ એજ્યુકેશનલ પ્લાનિંગ એન્ડ એડમિનિસ્ટ્રેશન (NIEPA)\n2. ટાટા ઈન્સ્ટિટ્યુટ ઓફ સોશિયલ સાયન્સિસ (TISS)\n3. મહાત્મા ગાંધી આંતરરાષ્ટ્રીય હિન્દી વિશ્વ વિદ્યાલય (MGAHV)\n4. વિશ્વ ભારતી\n\nયાદી – II\na. યુ.જી.સી. એક્ટ 1956 ના વિભાગ-3 અંતર્ગત, ડિમ્ડ યુનિવર્સિટી, 1964\nb. કેન્દ્રિય વિશ્વવિદ્યાલય અને રાષ્ટ્રીય મહત્વની સંસ્થા\nc. કેન્દ્રિય વિશ્વ-વિદ્યાલય, જેની સ્થાપના સંસદના કાયદા, કાયદા નં-3 1997\nd. ડિમ્ડ યુનિવર્સિટી 2006, યુ.જી.સી. એક્ટ, 1956 ના સેક્શન-3 અંતર્ગત",
+      "options_en": {
+        "A": "1-b, 2-d, 3-a, 4-c",
+        "B": "1-d, 2-a, 3-c, 4-b",
+        "C": "1-b, 2-d, 3-c, 4-a",
+        "D": "1-c, 2-b, 3-d, 4-a"
+      },
+      "options_gu": {
+        "A": "1-b, 2-d, 3-a, 4-c",
+        "B": "1-d, 2-a, 3-c, 4-b",
+        "C": "1-b, 2-d, 3-c, 4-a",
+        "D": "1-c, 2-b, 3-d, 4-a"
+      }
+    },
+    {
+      "question_number": 12,
+      "question_text_en": "Which of the following is not an independent vertical of one umbrella institution i.e. Higher Education Commission of India (HECI) as proposed in NEP 2020?",
+      "question_text_gu": "રાષ્ટ્રીય શિક્ષણ નિતી, NEP 2020 માં પ્રસ્તાવિત હાયર એજ્યુકેશન કમિશન ઓફ ઈન્ડિયા (HECI) માં નીચે પૈકીનું ક્યું ઘટક નથી ?",
+      "options_en": {
+        "A": "National Higher Education Regulatory Council (NHERC)",
+        "B": "University Education Council (UEC)",
+        "C": "General Education Council (GEC)",
+        "D": "Higher Education Grants Council (HEGC)"
+      },
+      "options_gu": {
+        "A": "નેશનલ હાયર એજ્યુકેશન રેગ્યુલેટરી કાઉન્સીલ (NHERC)",
+        "B": "યુનિવર્સિટી એજ્યુકેશન કાઉન્સિલ (UEC)",
+        "C": "જનરલ એજ્યુકેશન કાઉન્સિલ (GEC)",
+        "D": "હાયર એજ્યુકેશન ગ્રાન્ટ કાઉન્સિલ (HEGC)"
+      }
+    },
+    {
+      "question_number": 13,
+      "question_text_en": "In a certain code $E=P$, $Z=C,$ $N=O$ $K=B$, $C=Q$ $A=X$ $R=H$, $B=R.$ How will BREAK be written in the same code?",
+      "question_text_gu": "એક ચોક્કસ કોડમાં $E=P,$ $Z=C$, N =O, $K=B$, $C=Q$ $A=X,$ $R=H$, $B=R$ કેવી રીતે BREAK (બ્રેક) એક જ કોડમા લખવામાં આવશે.",
+      "options_en": {
+        "A": "RHPBX",
+        "B": "RHPXB",
+        "C": "RHPXC",
+        "D": "ROPXB"
+      },
+      "options_gu": {
+        "A": "RHPBX",
+        "B": "RHPXB",
+        "C": "RHPXC",
+        "D": "ROPXB"
+      }
+    },
+    {
+      "question_number": 14,
+      "question_text_en": "A and B travels from point P to Q at $17~km/hr$ and $19~km/hr$. respectively. P is 72 km away from Q. B reaches Q first and returns immediately and meets A at R. What is the distance between Q and R?",
+      "question_text_gu": "A અને B અનુક્રમે 17 કિ.મી. પ્રતિ કલાક અને 19 કિ.મી. પ્રતિ કલાકે મુસાફરી કરે છે. P, Q થી 72 કિ.મી. દૂર છે. B, Q પાસે પહેલા પહોંચે છે અને તરતજ પરત થઈ A અને Rને મળે છે તો Q અને R વચ્ચેનું અંતર શું છે ?",
+      "options_en": {
+        "A": "10 km",
+        "B": "4 km",
+        "C": "15 km",
+        "D": "36 km"
+      },
+      "options_gu": {
+        "A": "10 કિ.મી.",
+        "B": "4 કિ.મી.",
+        "C": "15 કિ.મી.",
+        "D": "36 કિ.મી."
+      }
+    },
+    {
+      "question_number": 15,
+      "question_text_en": "Match List - I with List - II and select the correct option given below.\nList-I (Software)\n1. Mendeley\n2. SPSS\n3. Turnitin\n4. Nvivo\n\nList - II (Application)\na. Quantitative data analysis\nb. Reference manager\nc. Plagiarism check\nd. Qualitative data analysis",
+      "question_text_gu": "નીચે પૈકી યાદી-I અને યાદી- II ને યોગ્ય વિકલ્પ સાથે પસંદ કરો.\nયાદી - I (સોફટવેર)\n1. Mendeley\n2. SPSS\n3. Turnitin\n4. Nvivo\n\nયાદી - II (અમલ)\na. સંખ્યાત્મક માહિતીનું વિશ્લેષણ\nb. સંદર્ભ પ્રબંધન\nc. ઊઠાંતરી તપાસ\nd. ગુણાત્મક માહિતીનું વિશ્લેષણ",
+      "options_en": {
+        "A": "1-b, 2-a, 3-c, 4-d",
+        "B": "1-d, 2-a, 3-c, 4-b",
+        "C": "1-c, 2-a, 3-b, 4-d",
+        "D": "1-c, 2-a, 3-d, 4-b"
+      },
+      "options_gu": {
+        "A": "1-b, 2-a, 3-c, 4-d",
+        "B": "1-d, 2-a, 3-c, 4-b",
+        "C": "1-c, 2-a, 3-b, 4-d",
+        "D": "1-c, 2-a, 3-d, 4-b"
+      }
+    },
+    {
+      "question_number": 16,
+      "question_text_en": "Which of the following statement/s is/are correct?\na. For the sequence of integers represented in binary 00111, 01001, 01011, P.... the next integer P would be represented as 011101.\nb. A byte is a binary number consisting of exactly 8 bits.\nChoose the correct option:",
+      "question_text_gu": "નીચે પૈકી કયું/કયા વિધાન સાચું/સાચા છે?\na. અહીં આપેલ બાયનરી પૂર્ણાંક અનુક્રમમાં 00111, 01001, 01011, P.... અનુસાર આગળનો P 011101 હશે.\nb. બાઈટ એ એક બાયનરી નંબર છે, જેમાં નિશ્ચિત રીતે આઠ બાઈટ હોય છે.\nયોગ્ય વિકલ્પ પસંદ કરો.",
+      "options_en": {
+        "A": "a only",
+        "B": "b only",
+        "C": "both a and b",
+        "D": "neither a nor b"
+      },
+      "options_gu": {
+        "A": "ફક્ત a",
+        "B": "ફક્ત b",
+        "C": "a અને b બંને",
+        "D": "a અને b માથી કોઈ પણ નહીં"
+      }
+    },
+    {
+      "question_number": 17,
+      "question_text_en": "Study the chart and answer the question, the Pie chart given here represents the domestic expenditure of a family in percent. If the total monthly income of the family is Rs. 55,660/-, the annual savings in the form of PF would be (in nearest Rs.)\nExpenditure: Medical 9%, PF 13%, Food 23%, House Rent 18%, Entertainment 12%, Child Education 25%.",
+      "question_text_gu": "ચાર્ટનો અભ્યાસ કરી પ્રશ્નનો જવાબ આપો. અહી પાઈ ચાર્ટ એક કુટુંબનો વર્તમાન ખર્ચ દર્શાવે છે. એ કુટુંબની કુલ માસિક આવક Rs. 55,660/- છે તો વાર્ષિક બચત PF ના રૂપમાં કેટલી થશે. ( નજીકની રકમ )\nખર્ચ: દવાઓ 9%, પી.એફ. 13%, ખોરાક 23%, મકાન ભાડુ 18%, મનોરંજન 12%, બાળકોના અભ્યાસ 25%.",
+      "options_en": {
+        "A": "86830",
+        "B": "86155",
+        "C": "96830",
+        "D": "76830"
+      },
+      "options_gu": {
+        "A": "86830",
+        "B": "86155",
+        "C": "96830",
+        "D": "76830"
+      }
+    },
+    {
+      "question_number": 18,
+      "question_text_en": "Choose the graph that best fits with this statement: \"This car has excellent acceleration\".",
+      "question_text_gu": "*આ કારમાં ઉત્તમ પ્રવેગ છે* તે નિવેદન સાથે શ્રેષ્ઠ રીતે બંધ બેસે તેવો ગ્રાફ પસંદ કરો.",
+      "options_en": {
+        "A": "(Image A)",
+        "B": "(Image B)",
+        "C": "(Image C)",
+        "D": "(Image D)"
+      },
+      "options_gu": {
+        "A": "(Image A)",
+        "B": "(Image B)",
+        "C": "(Image C)",
+        "D": "(Image D)"
+      }
+    },
+    {
+      "question_number": 19,
+      "question_text_en": "A group of students of your class face problem in learning, you want to identify the deficiencies and difficulties of the learner, which evaluation would you choose?",
+      "question_text_gu": "તમારા વર્ગમાં વિદ્યાર્થીનું એક જૂથ અધ્યયનમાં મૂશ્કેલી અનુભવે છે. તમે તેમની ઉણપ અને મૂશ્કેલી જાણવા માગો છો. નીચે પૈકી કઈ મૂલ્યાંકન પ્રયુક્તિ તમે પસંદ કરશો ?",
+      "options_en": {
+        "A": "Formative evaluation",
+        "B": "Summative evaluation",
+        "C": "Diagnostic evaluation",
+        "D": "Qualitative evaluation"
+      },
+      "options_gu": {
+        "A": "રચનાત્મક મૂલ્યાંકન (Formative)",
+        "B": "સારાંશ મૂલ્યાંકન (Summative)",
+        "C": "નિદાનાત્મક મૂલ્યાંકન (Diagnostic)",
+        "D": "ગુણાત્મક મૂલ્યાંકન (Qualitative)"
+      }
+    },
+    {
+      "question_number": 20,
+      "question_text_en": "What should be done to ensure optimum growth of the slow learner?\n1. They should be treated like others, they will grow themself.\n2. They should be given challenging task as per their level in the area of their interest.\n3. They should be left at their own.\n4. They should get sufficient resources.\n5. Regular activities regarding diagnosis and remedy.",
+      "question_text_gu": "નિમ્ન ગતિના અધ્યેતાનો પૂરતો વિકાસ સુનિશ્ચિત કરવા માટે નીચે પૈકી શું કરવું જોઈએ?\n1. તેમને બીજા અધ્યેતાની જેમજ ગણવા જોઈએ, તેઓ તેમની રીતે વિકસિત થશે.\n2. તેમને તેમના રસના વિષયમાં તેમની કક્ષા મૂજબ પડકારજનક કાર્ય સોંપવા જોઈએ.\n3. તેમને પોતાના ઉપર છોડી દેવા જોઈએ.\n4. તેમને પૂરતા સ્રોતો ઉપલબ્ધ કરાવવા જોઈએ.\n5. નિદાન અને ઉપચાર સંબંધી નિયમિત હાથ ધરાતી પ્રવૃત્તિઓ.",
+      "options_en": {
+        "A": "1, 3 and 5",
+        "B": "2, 4 and 5",
+        "C": "2, 3 and 4",
+        "D": "3, 4 and 5"
+      },
+      "options_gu": {
+        "A": "1, 3 ને 5",
+        "B": "2, 4 ને 5",
+        "C": "2, 3 ને 4",
+        "D": "3, 4 ને 5"
+      }
+    },
+    {
+      "question_number": 21,
+      "question_text_en": "Which of the following is a lead agency for 'Education for Sustainable Development'?",
+      "question_text_gu": "નીચેમાંથી કઈ ટકાઉ વિકાસ શિક્ષણ માટેની મુખ્ય એજન્સી છે",
+      "options_en": {
+        "A": "Brundtland Commission",
+        "B": "UNESCO",
+        "C": "UNDP",
+        "D": "UNICEF"
+      },
+      "options_gu": {
+        "A": "બ્રાઉનટલેન્ડ કમીશન",
+        "B": "UNESCO",
+        "C": "UNDP",
+        "D": "UNICEF"
+      }
+    },
+    {
+      "question_number": 22,
+      "question_text_en": "The Global Education Development Agenda reflected in the Goal 4 (SDG4) of the 2030 Agenda for Sustainable Development, adopted by India in 2015, seeks to",
+      "question_text_gu": "સતત વિકાસ એજેન્ડા 2030 ના લક્ષ્ય 4 (એસ.ડી.જી. 4) માં દર્શાવેલ વૈશ્વિક શિક્ષણ વિકાસ એજેન્ડા ક્યા લક્ષ્યને પ્રાપ્ત કરવાનું જણાવે છે?",
+      "options_en": {
+        "A": "\"ensure inclusive and equitable quality education and promote lifelong learning opportunities for all\" by 2030",
+        "B": "\"ensure inclusive and affordable education and desired learning opportunities for all\" by 2030",
+        "C": "\"ensure accountable and quality education and promote creative learning opportunities for all\" by 2030",
+        "D": "\"ensure equity, equality, quality and promote lifelong learning opportunities for all\" by 2030"
+      },
+      "options_gu": {
+        "A": "2030 સુધીમાં બધા માટે સમાવેશી અને ગુણવત્તા યુક્ત શિક્ષણ તથા આજીવન શિક્ષણના અવસરો વધારવાનું",
+        "B": "2030 સુધીમાં બધા માટે સમાવેશી અને પરવડે તેવું તથા વાંચ્છિત શિક્ષણની તક",
+        "C": "2030 સુધીમાં બધા માટે જવાબદારી, ગુણવત્તા તથા સર્જનાત્મક અધ્યયનની તકો વધારવાનું",
+        "D": "2030 સુધીમાં સમાનતા, ગુણવત્તા અને આજીવન અધ્યયનની તક સુનિશ્ચિત કરવું"
+      }
+    },
+    {
+      "question_number": 23,
+      "question_text_en": "A researcher uses systematic random sampling from a company directory that has 600 employees listed in alphabetical order. If the desired samples size is 30, and the first name to be selected is number 8, which of the following will not be selected?",
+      "question_text_gu": "કંપનીની ડિરેક્ટરીમાંથી 600 કર્મચારીઓનું નામ મૂળાક્ષર મુજબ ગોઠવાએલ છે, જેમાથી એક સંશોધક સિસ્ટમેટિક, યાદચ્છિક નમૂના પસંદગી દ્વારા નમૂનો પસંદ કરે છે. નમૂનાનું કદ 30 છે અને 8 નંબરનું નામ પ્રથમ પસંદ થાય છે. તો નીચે પૈકી કયો નંબર પસંદ નહીં થાય ?",
+      "options_en": {
+        "A": "88",
+        "B": "368",
+        "C": "428",
+        "D": "558"
+      },
+      "options_gu": {
+        "A": "88",
+        "B": "368",
+        "C": "428",
+        "D": "558"
+      }
+    },
+    {
+      "question_number": 24,
+      "question_text_en": "The bar graph given below shows the Foreign Exchange Reserves of a Country (in millions US $) from 1991-92 to 1998-99. The foreign exchange reserves in 1997-98 was how many times that in 1994-95.",
+      "question_text_gu": "નીચે આપેલ સ્તંભાલેખમાં 1991-92 થી 1998-99 સુધી દેશના વિદેશી વિનિમય ભંડારને દર્શાવવામાં આવ્યો છે (in millions US $) 1997-98 માં વિદેશી વિનિમય ભંડાર 1994-95 માં કેટલો ગણો હતો ?",
+      "options_en": {
+        "A": "0.7",
+        "B": "1.2",
+        "C": "1.4",
+        "D": "1.5"
+      },
+      "options_gu": {
+        "A": "0.7",
+        "B": "1.2",
+        "C": "1.4",
+        "D": "1.5"
+      }
+    },
+    {
+      "question_number": 25,
+      "question_text_en": "Which of the following is not a barrier of the Effective Communication?",
+      "question_text_gu": "નીચે આપેલ વિકલ્પોમાંથી ક્યો વિકલ્પ અસરકારક પ્રત્યાયન માટે અવરોધક નથી.",
+      "options_en": {
+        "A": "Poor ability to listen others",
+        "B": "Lack of transparency and trust",
+        "C": "Cultural and language differences",
+        "D": "Differences in economic status"
+      },
+      "options_gu": {
+        "A": "બીજાને સાંભળવાની નબળી ક્ષમતા",
+        "B": "પારદર્શિતા અને વિશ્વાસનો અભાવ",
+        "C": "સંસ્કૃતિ અને ભાષાનો તફાવત",
+        "D": "આર્થિક સ્થિતિમાં તફાવત"
+      }
+    },
+    {
+      "question_number": 26,
+      "question_text_en": "What are the major components of effective classroom communication?\n1. Sense of Humour\n2. Feedback\n3. Classroom cleanliness\n4. Body Language\n5. Safe Environment",
+      "question_text_gu": "અસરકારક વર્ગખંડ પ્રત્યાયનમાં મુખ્ય ઘટકો કયા છે?\n1. રમૂજની ભાવના\n2. પ્રતિસાદ\n3. વર્ગખંડની સ્વચ્છતા\n4. બોડી લેંગ્વેજ (શારીરિક હાવભાવ)\n5. સલામત વાતાવરણ",
+      "options_en": {
+        "A": "1, 2, 3, 4",
+        "B": "2, 3, 4, 5",
+        "C": "1, 2, 4, 5",
+        "D": "1, 3, 4, 5"
+      },
+      "options_gu": {
+        "A": "1, 2, 3, 4",
+        "B": "2, 3, 4, 5",
+        "C": "1, 2, 4, 5",
+        "D": "1, 3, 4, 5"
+      }
+    },
+    {
+      "question_number": 27,
+      "question_text_en": "A second commitment period of Kyoto protocol that was agreed to in 2012 to extend the agreement to 2020, known as the",
+      "question_text_gu": "ક્યોટો પ્રોટોકોલ ની બીજી પ્રતિબદ્ધતાની અવધિ જેનો કરાર 2012 માં થયો અને 2020 સુધી લંબાયો હતો એને શું કહેવાય છે",
+      "options_en": {
+        "A": "Paris Agreement",
+        "B": "Doha Amendment",
+        "C": "International Solar Alliance",
+        "D": "Environment Protection Act"
+      },
+      "options_gu": {
+        "A": "પેરિસ એગ્રીમેન્ટ",
+        "B": "દોહા એમેન્ડમેન્ટ",
+        "C": "ઈંટરનેશનલ સોલર અલાયન્સ",
+        "D": "એન્વાયરમેન્ટ પ્રોટેક્શન એક્ટ"
+      }
+    },
+    {
+      "question_number": 28,
+      "question_text_en": "Which of the following Statement is true in relation to Agenda 21 of the Earth Summit in Rio de Janerio, Brazil 1992?",
+      "question_text_gu": "રિયોડી જનેરો, બ્રાઝિલ 1992 ના શિખર સમ્મેલનમાં એજેન્ડા 21ના સંદર્ભમાં નીચેનું કયું નિવેદન સાચું છે",
+      "options_en": {
+        "A": "It was plan of action to be taken globally, nationally and locally in every area in which human impacts on the environment.",
+        "B": "It was planning for base-plan of Millennium Development Goals.",
+        "C": "It was planning for base-plan of Sustainable Development Goals.",
+        "D": "It was plan of action to be taken globally, nationally, locally in every area of gender disparity and inequality."
+      },
+      "options_gu": {
+        "A": "માનવનું પર્યાવરણમાં પ્રભાવ જોવા માટે એક ક્રિયા યોજના બનાવી હતી જે વૈશ્વિક, રાષ્ટ્રીય અને સ્થાનિક સ્તરે કામ કરે.",
+        "B": "મિલેનિયમ વિકાસ લક્ષ્યની આધાર યોજના માટે યોજના બની હતી.",
+        "C": "તે ટકાઉ વિકાલ લક્ષ્યની યોજના માટે કામ કરી રહ્યા હતા.",
+        "D": "લિંગ સમાનતા અને અસમાનતાના દરેક ક્ષેત્રમાં વૈશ્વિક રાષ્ટ્રીય અને સ્થાનિક સ્તરે કાર્યવાહી કરવાની યોજના હતી."
+      }
+    },
+    {
+      "question_number": 29,
+      "question_text_en": "Which of the following research need hypothesis testing?",
+      "question_text_gu": "નીચે પૈકી કયા સંશોધનને ઉત્કલ્પના ચકાસણીની જરૂરિયાત છે",
+      "options_en": {
+        "A": "Historical Research",
+        "B": "Ex-post Facto Research",
+        "C": "Ethnographic Research",
+        "D": "Case Study Research"
+      },
+      "options_gu": {
+        "A": "ઐતિહાસિક શોધ",
+        "B": "એક્સપોસ્ટ ફેક્ટો શોધ",
+        "C": "નૃવંશશાસ્ત્ર શોધ",
+        "D": "વ્યક્તિ અભ્યાસ શોધ"
+      }
+    },
+    {
+      "question_number": 30,
+      "question_text_en": "Which of the following idea paved the way for a post-positivist paradigm?",
+      "question_text_gu": "નીચેમાંથી ક્યા વિચારે પરા-પ્રત્યક્ષવાદી (Post-positivist) માટે માર્ગ મોકળો કર્યો?",
+      "options_en": {
+        "A": "Evidence-based reality that can be mathematically interpreted",
+        "B": "Evidence-based reality that can be empirically verified",
+        "C": "Empirical evidence is essential for a posteriori knowledge",
+        "D": "All observation including objective reality is fallible"
+      },
+      "options_gu": {
+        "A": "પુરાવા આધારિત વાસ્તવિકતા કે જે ગાણિતિક રીતે અર્થઘટન કરી શકાય છે",
+        "B": "પુરાવા આધારિત વાસ્તવિકતા કે જે અનુભવાત્મક રીતે ચકાસી શકાય છે",
+        "C": "પાછળના જ્ઞાન માટે અનુભવાત્મક પુરાવા આવશ્યક છે",
+        "D": "વસ્તુલક્ષી વાસ્તવિક્તા સહિત તમામ નિરીક્ષણ અચૂક છે"
+      }
+    },
+    {
+      "question_number": 31,
+      "question_text_en": "The price of the sugar rise by 25%, if a family wants to keep their expenses on sugar the same as earlier, the family will have to decrease its consumption of sugar by",
+      "question_text_gu": "ખાંડનો ભાવ વધારો 25% છે. જો એક કુટુંબ પોતાના ખાંડપરનો ખર્ચો પૂર્વ અનુસાર જ રાખવા માંગે તો કુટુમ્બે ખાંડનો વપરાશ કેટલો ઘટાડવો પડે.",
+      "options_en": {
+        "A": "25%",
+        "B": "20%",
+        "C": "80%",
+        "D": "75%"
+      },
+      "options_gu": {
+        "A": "25%",
+        "B": "20%",
+        "C": "80%",
+        "D": "75%"
+      }
+    },
+    {
+      "question_number": 32,
+      "question_text_en": "Consider the example of Anumana given below.\nI. There is fire in mountain\nII. Because it has smoke\nIII. Wherever there is a smoke, there is fire\nWhich one of the following expresses Vyapti?",
+      "question_text_gu": "નીચે આપેલ ઉદાહરણોને 'અનુમાન' માટે સ્વીકારો.\nI. પર્વતમાં આગ છે\nII. કેમકે આમા ધુમાડો છે\nIII. જ્યાં પણ ધુમાડો છે ત્યાં આગ છે\nનીચે પૈકી કયું 'વ્યાપ્તિ'ને રજુ કરે છે.",
+      "options_en": {
+        "A": "Mountain and fire",
+        "B": "Mountain and smoke",
+        "C": "Fire and smoke",
+        "D": "Perceiver and smoke"
+      },
+      "options_gu": {
+        "A": "પર્વત અને આગ",
+        "B": "પર્વત અને ધુમાડો",
+        "C": "આગ અને ધુમાડો",
+        "D": "ગ્રહણકરનાર અને ધુમાડો"
+      }
+    },
+    {
+      "question_number": 33,
+      "question_text_en": "Report of Kothari Commission 1964-66, National Policy on Education 1986 and National Education Policy 2020 proposed which of the following share of GDP to be invested on Education?",
+      "question_text_gu": "કોઠારી કમિશન 1964-66, નેશનલ પોલિસી ઓન એજ્યુકેશન 1986 અને નેશનલ એજ્યુકેશન પોલિસી 2020 એ નીચે પૈકી જી.ડી.પી. નો કેટલો ભાગ શિક્ષણમાં રોકવાની ભલામણ કરી છે ?",
+      "options_en": {
+        "A": "4.5% of GDP",
+        "B": "5.0% of GDP",
+        "C": "6.0% of GDP",
+        "D": "7.5% of GDP"
+      },
+      "options_gu": {
+        "A": "જી.ડી.પી. ના 4.5%",
+        "B": "જી.ડી.પી. ના 5.0%",
+        "C": "જી.ડી.પી. ના 6.0%",
+        "D": "જી.ડી.પી. ના 7.5%"
+      }
+    },
+    {
+      "question_number": 34,
+      "question_text_en": "Which of the following is not a function of National Council for Vocational Education and Training (NCVET)?",
+      "question_text_gu": "નીચે પૈકી ક્યું National Council for Vocational Education and Training (NCVET) નું કાર્ય નથી ?",
+      "options_en": {
+        "A": "Grants the recognition to quality awarding bodies",
+        "B": "Grants the recognition to quality assessing agencies",
+        "C": "Regulates the functioning through standardised norms, procedures and continuous quality governance",
+        "D": "Assess and accredit institutions of higher learning to work continuously and improve the quality of education"
+      },
+      "options_gu": {
+        "A": "ગુણવત્તા આપતી બોડિઝ/તંત્રને માન્યતા આપવી",
+        "B": "ગુણવત્તા નું મૂલ્યાંકન કરતી સંસ્થાઓને માન્યતા આપવી",
+        "C": "કોઈપણ સંસ્થાના માન્યતાપ્રાપ્ત માપદંડો, પ્રક્રિયા અને ગુણવત્તાને નિયંત્રિત કરવું",
+        "D": "શિક્ષણની ગુણવત્તા વધારવા અને સતત કાર્યશીલતા માટે ઉચ્ચ શિક્ષણ આપતી સંસ્થાને માન્યતા અને ક્રમ આપવો"
+      }
+    },
+    {
+      "question_number": 35,
+      "question_text_en": "The distinction between laukika and alaukika is made reference to which one of the following pramanas?",
+      "question_text_gu": "લૌકિક અને અલૌકિક વચ્ચેનો તફાવત નીચેમાંથી ક્યા પ્રમાણનો ઉલ્લેખ કરવામાં આવ્યો છે?",
+      "options_en": {
+        "A": "Anumana (Inference)",
+        "B": "Upamana (Comparison)",
+        "C": "Pratyaksa (Perception)",
+        "D": "Sbada (Verbal Testimony)"
+      },
+      "options_gu": {
+        "A": "અનુમાન",
+        "B": "ઉપમાન",
+        "C": "પ્રત્યક્ષ",
+        "D": "શબ્દ"
+      }
+    },
+    {
+      "question_number": 36,
+      "question_text_en": "Find the next term of given series:\nSEQUENTIAL, EQUENTIAL, EQUENTI ......?........ QUEN",
+      "question_text_gu": "નીચે આપેલ હરોળનો આવનાર શબ્દો શોધો.\nSEQUENTIAL, EQUENTIAL, EQUENTI ......?........ QUEN",
+      "options_en": {
+        "A": "QUENTI",
+        "B": "QUENT",
+        "C": "UENTI",
+        "D": "EQUENT"
+      },
+      "options_gu": {
+        "A": "QUENTI",
+        "B": "QUENT",
+        "C": "UENTI",
+        "D": "EQUENT"
+      }
+    },
+    {
+      "question_number": 37,
+      "question_text_en": "Which of the following are related to data mapping?\n1. It is a process of matching fields from one databases to another.\n2. It enables one to accurately connect sensitive data to the identity of the person associated with it.\n3. This reduces the potential for errors, helps standardize data, and makes it easier to understand.\n4. Data mapping is a critical element of any data privacy framework.\n5. It is related to preparing suitable graphs.",
+      "question_text_gu": "આમાંથી કયું ડેટા મેપિંગથી સંબધિત છે ?\n1. આ પ્રક્રિયા છે એક ડેટા બેઝને બીજા સાથે મેળવવાનો.\n2. તે સંવેદનશીલ ડેટાને તેની સાથે સંકળાયેલી વ્યક્તિની ઓળખ સાથે સચોટ રીતે કનેક્ટ કરવા સક્ષમ બનાવે છે.\n3. આ ભૂલોની સંભાવનાને ઘટાડે છે. પ્રમાણિત ડેટાને મદદ કરે છે; અને સમજવાનું સરળ બનાવે છે.\n4. ડેટા મેપિંગ એ કોઈ પણ ડેટા ગોપનીયતા માળખાનું નિર્ણાયક તત્ત્વ છે.\n5. યોગ્ય આલેખ બનાવવા માટે સંબધિત છે.",
+      "options_en": {
+        "A": "1, 2, 3, 5",
+        "B": "2, 3, 4, 5",
+        "C": "1, 3, 4, 5",
+        "D": "1, 2, 3, 4"
+      },
+      "options_gu": {
+        "A": "1, 2, 3, 5",
+        "B": "2, 3, 4, 5",
+        "C": "1, 3, 4, 5",
+        "D": "1, 2, 3, 4"
+      }
+    },
+    {
+      "question_number": 38,
+      "question_text_en": "Which of the following is not a Cardinal Philosophy of NMEICT mission?",
+      "question_text_gu": "નીચે પૈકી શું NMEICT મિશનના પાયારૂપ દર્શન નથી ?",
+      "options_en": {
+        "A": "No talent of the country should be allowed to go waste.",
+        "B": "All the services available through the content delivery portal 'SAKSHAT' should be free.",
+        "C": "Freely available material on the web should be used so as to avoid reinventing the wheel.",
+        "D": "Rapid expansion of optical fibre cable network for terrestrial broadband connectivity."
+      },
+      "options_gu": {
+        "A": "દેશની કોઈ પણ પ્રતિભાનો બગાડ થવો ન જોઈએ.",
+        "B": "સાક્ષાત પોર્ટલમાં જેટલી પણ સેવાઓ છે એ બધી મફત હોવી જોઈએ.",
+        "C": "સરળતાથી ઈન્ટરનેટ પર ઉપલબ્ધ શોધનો ઉપયોગ કરવો, જેથી ફરીથી પૈડાની શોધને અવગણી શકીએ.",
+        "D": "પૃથ્વી પર બ્રોડબેન્ડ કનેક્ટીવીટી માટે ઓપ્ટિકલ ફાઈબર કેબલનો ઝડપી પ્રસાર."
+      }
+    },
+    {
+      "question_number": 39,
+      "question_text_en": "Which of the followings are the UNDP Sustainable Development Goals?\na. Quality Education\nb. Reduced Inequalities\nc. Life beyond water\nd. Industry, Innovation and Infrastructure\ne. Gender Inequalities",
+      "question_text_gu": "નીચે આપેલ વિકલ્પમાંથી કયો વિકલ્પ UNDP ટકાઉ વિકાસ લક્ષ્યની યોજના માટે છે ?\na. ગુણવત્તાયુક્ત શિક્ષણ\nb. ઓછી અસમાનતાઓ\nc. પાણીથી બહારનું જીવન\nd. ઉદ્યોગ, નવીનતા અને ઈન્ફ્રાસ્ટ્રક્ચર\ne. લિંગ અસમાનતાઓ",
+      "options_en": {
+        "A": "e, d and b",
+        "B": "a, c and d",
+        "C": "a, b and d",
+        "D": "c, e and a"
+      },
+      "options_gu": {
+        "A": "e, d અને b",
+        "B": "a, c અને d",
+        "C": "a, b અને d",
+        "D": "c, e અને a"
+      }
+    },
+    {
+      "question_number": 40,
+      "question_text_en": "Match the List - I with List - II and select the correct option given below.\nList-I (Air Pollutant)\n1. Chlorofluorocarbon\n2. Sulphur Dioxide\n3. Lead Compound\n4. Carbon Dioxide\n\nList - II (Effect)\na. Acid Rain\nb. Depletion in Ozone Layer in the Atmosphere\nc. Topmost contribution to greenhouse effect\nd. Harmful for human nervous system",
+      "question_text_gu": "લિસ્ટ-I અને લિસ્ટ-II ને મેળવી, સાચો વિકલ્પ શોધો\nલિસ્ટ - I (વાયુ પ્રદૂષણ)\n1. ક્લોરોફ્લોરોકાર્બન\n2. સલ્ફર ડાયઓક્સાઈડ\n3. લેડ સંયોજન\n4. કાર્બન ડાયઓક્સાઈડ\n\nલિસ્ટ - II (પ્રભાવ)\na. એસિડ રેન\nb. વાતાવરણમાં ઓઝોન સ્તરમાં અવક્ષેપ\nc. ગ્રીન હાઉસ અસર માં સૌથી ટોચનું યોગદાન\nd. માનવ ચેતાતંત્ર (નર્વસ સીસ્ટમ) માટે હાનિકારક",
+      "options_en": {
+        "A": "1-a, 2-d, 3-c, 4-b",
+        "B": "1-b, 2-d, 3-c, 4-a",
+        "C": "1-b, 2-a, 3-d, 4-c",
+        "D": "1-b, 2-a, 3-c, 4-d"
+      },
+      "options_gu": {
+        "A": "1-a, 2-d, 3-c, 4-b",
+        "B": "1-b, 2-d, 3-c, 4-a",
+        "C": "1-b, 2-a, 3-d, 4-c",
+        "D": "1-b, 2-a, 3-c, 4-d"
+      }
+    },
+    {
+      "question_number": 41,
+      "question_text_en": "Which one is not the organizational barriers in communication?",
+      "question_text_gu": "સંદેશાવ્યવહારમાં કયો વિકલ્પ સંગઠનાત્મક અવરોધ નથી",
+      "options_en": {
+        "A": "Complexity in organizational structure",
+        "B": "Too rigid or loose organizational policy",
+        "C": "Prematured evaluation",
+        "D": "Poor organizational facilities"
+      },
+      "options_gu": {
+        "A": "સંગઠનાત્મક માળખામાં જટિલતા",
+        "B": "ખૂબજ કઠોર અથવા ઢીલી સંગઠનાત્મક નીતિ",
+        "C": "અકાળ મૂલ્યાંકન",
+        "D": "નબળી સંગઠનાત્મક સુવિધાઓ"
+      }
+    },
+    {
+      "question_number": 42,
+      "question_text_en": "What are the functions of mass communication?\n1. Surveillance\n2. Correction\n3. Feedback\n4. Entertainment",
+      "question_text_gu": "સામૂહિક સંદેશાવ્યવહારના કાર્યો શું છે\n1. સર્વેલન્સ\n2. સુધારો\n3. પ્રતિસાદ\n4. મનોરંજન",
+      "options_en": {
+        "A": "2, 3, 4",
+        "B": "1, 2, 3",
+        "C": "1, 3, 4",
+        "D": "1, 2, 4"
+      },
+      "options_gu": {
+        "A": "2, 3, 4",
+        "B": "1, 2, 3",
+        "C": "1, 3, 4",
+        "D": "1, 2, 4"
+      }
+    },
+    {
+      "question_number": 43,
+      "question_text_en": "Directions (Q. No. 43-Q. No. 47): Read Passage... Which of the following is not a factor of production?",
+      "question_text_gu": "સૂચનાઓ (Q. No. 43-Q. No. 47): પેરેગ્રાફ વાંચો... આમાથી ક્યો વિકલ્પ ઉત્પાદન ક્ષેત્રમાં પરિબળ નથી",
+      "options_en": {
+        "A": "Capital",
+        "B": "Land",
+        "C": "Labour",
+        "D": "Profit"
+      },
+      "options_gu": {
+        "A": "મૂડી",
+        "B": "જમીન",
+        "C": "શ્રમ",
+        "D": "લાભ"
+      }
+    },
+    {
+      "question_number": 44,
+      "question_text_en": "Which of the following has a major impact on international trade ?",
+      "question_text_gu": "અંતર્રાષ્ટ્રીય વેપારમા કયા પરિબળની મોટી અસર થાય છે",
+      "options_en": {
+        "A": "Contribution to GDP",
+        "B": "Industrialization",
+        "C": "Per capita income",
+        "D": "Domestic trade"
+      },
+      "options_gu": {
+        "A": "કુલ ઘરેલુ ઉત્પાદનમાં યોગદાન",
+        "B": "ઔદ્યોગિકરણ",
+        "C": "માથાદીઠ આવક",
+        "D": "સ્થાનિક વેપાર"
+      }
+    },
+    {
+      "question_number": 45,
+      "question_text_en": "What is the main difference between international trade and domestic trade?",
+      "question_text_gu": "અંતર્રાષ્ટ્રીય વેપાર અને સ્થાનિક વેપારમાં મુખ્ય તફાવત શું છે ?",
+      "options_en": {
+        "A": "One is more significant than the other",
+        "B": "One is more attractive than the other",
+        "C": "One is more advanced than the other",
+        "D": "One is more crucial than the other"
+      },
+      "options_gu": {
+        "A": "એક બીજા કરતા વધારે નોંધપાત્ર હોય છે",
+        "B": "એક બીજાથી વધારે અકર્ષે છે",
+        "C": "એક બીજાથી વધુ અગળ વધેલો છે",
+        "D": "એક બીજાથી વધુ નિર્ણાયક છે"
+      }
+    },
+    {
+      "question_number": 46,
+      "question_text_en": "According to the author, increasing international trade",
+      "question_text_gu": "લેખકના પ્રમાણે અંતર્રાષ્ટ્રીય વેપારની ગતિશીલતાનું કારણ",
+      "options_en": {
+        "A": "Brings about speedy industrialization",
+        "B": "Uplifts technology and transportation",
+        "C": "Is crucial to continuance of globalization",
+        "D": "Encourages multinational corporations"
+      },
+      "options_gu": {
+        "A": "ઝડપથી ઔદ્યોગિકરણ થાય છે",
+        "B": "ટેક્નૉલજિ અને પરિવહનનું ઉત્પાત થાય છે",
+        "C": "વૈશ્વિકરણમાં ગતિશીલતા માટે આ નિર્ણાયક ભૂમિકા ભજવે છે",
+        "D": "બહુરાષ્ટ્રીય કંપનીઓને પ્રોત્સાહિત કરે છે"
+      }
+    },
+    {
+      "question_number": 47,
+      "question_text_en": "According to this passage what is typical of International trade ?",
+      "question_text_gu": "પેસેજ વાંચ્યા પછી અંતર્રાષ્ટ્રીય વેપાર વિષયે તમારો શું અબિપ્રાય છે ?",
+      "options_en": {
+        "A": "Easier than domestic trade",
+        "B": "Influences domestic trade",
+        "C": "Costlier than domestic trade",
+        "D": "Facilitates domestic trade"
+      },
+      "options_gu": {
+        "A": "સ્થાનિક વેપાર કરતા સહેલુ",
+        "B": "સ્થાનિક વેપારને પ્રભાવિત કરે",
+        "C": "સ્થાનિક વેપારથી મોંઘો છે",
+        "D": "સ્થાનિક વેપારને સરળ કરે છે"
+      }
+    },
+    {
+      "question_number": 48,
+      "question_text_en": "Match Section - I with Section - II.\nSection - I\n1. Interpersonal Communication\n2. Intrapersonal Communication\n3. Small group Communication\n4. Public Communication\n\nSection - II\na. Communication with a group sharing a common goal\nb. Strategic communication to convey ideas\nc. Face-to-face exchange of information\nd. Communication with oneself",
+      "question_text_gu": "વિભાગ–I અને વિભાગ-II ને યોગ્ય રીતે જોડો.\nવિભાગ – I\n1. આંતર વૈયક્તિક પ્રત્યાયન\n2. અંતર વૈયક્તિક પ્રત્યાયન\n3. નાનું જૂથ પ્રત્યાયન\n4. જાહેર પ્રત્યાયન\n\nવિભાગ – II\na. સમાન લક્ષ્ય ધરાવતા જૂથ સાથે પ્રત્યાયન\nb. વિચારો પહોંચાડવા માટે પ્રયુક્તિ યુક્ત પ્રત્યાયન\nc. માહિતીનું મુખોપમુખ વહેંચણી\nd. સ્વ સાથે પ્રત્યાયન",
+      "options_en": {
+        "A": "1-a, 2-b, 3-c, 4-d",
+        "B": "1-b, 2-a, 3-d, 4-c",
+        "C": "1-c, 2-d, 3-a, 4-b",
+        "D": "1-c, 2-b, 3-d, 4-a"
+      },
+      "options_gu": {
+        "A": "1-a, 2-b, 3-c, 4-d",
+        "B": "1-b, 2-a, 3-d, 4-c",
+        "C": "1-c, 2-d, 3-a, 4-b",
+        "D": "1-c, 2-b, 3-d, 4-a"
+      }
+    },
+    {
+      "question_number": 49,
+      "question_text_en": "Which of the following statements are related to teaching and learning more appropriately?\n1. Learning can occur without teaching but teaching without learning is meaningless.\n2. Learning is like receiving, while teaching is giving.\n3. Learning is an art and teaching is a science.\n4. Teaching is an individual activity while learning is a collaborative activity.\n5. Teaching is defined as facilitation of learning.",
+      "question_text_gu": "નીચે પૈકી કયા વિધાનો અધ્યયન અને અધ્યાપન સાથે વધુ સુસંગત છે ?\n1. અધ્યયન એ અધ્યાપન વગર પણ થઈ શકે પણ અધ્યયન વગરનું અધ્યાપન અર્થપૂર્ણ નથી.\n2. અધ્યયન એટલે કંઈક મેળવવું જ્યારે અધ્યાપન એટલે કંઈક આપવું.\n3. અધ્યયન એક કળા છે અને અધ્યાપન એક વિજ્ઞાન છે.\n4. અધ્યાપન એ એક વ્યક્તિગત પ્રવૃત્તિ છે, જ્યારે અધ્યયન એ સહાયકારી પ્રવૃત્તિ છે.\n5. અધ્યાપનને અધ્યયન માટે સુવિધા તરીકે વ્યાખ્યાયિત કરવામાં આવે છે.",
+      "options_en": {
+        "A": "1, 2 and 5",
+        "B": "1, 3 and 5",
+        "C": "1, 2 and 4",
+        "D": "2, 4 and 5"
+      },
+      "options_gu": {
+        "A": "1, 2 ને 5",
+        "B": "1, 3 ને 5",
+        "C": "1, 2 ને 4",
+        "D": "2, 4 ને 5"
+      }
+    },
+    {
+      "question_number": 50,
+      "question_text_en": "In order to make teaching more effective, what will do?\n1. Learn the lesson by heart.\n2. Appropriate use of teaching aid.\n3. Employ illustrations for better understanding.\n4. Write everything on the blackboard so student can learn better.\n5. Try to make two way communication in the classroom.",
+      "question_text_gu": "અધ્યાપનને વધુ અસરકારક બનાવવા માટે તમે શું કરશો?\n1. શીખવવા માટેના વિષયવસ્તુને ગોખી નાખશો.\n2. શૈક્ષણિક સાધનોનો ઉચિત ઉપયોગ.\n3. વધુ સમજ માટે ઉદાહરણોનો ઉપયોગ.\n4. સમગ્ર વિષયવસ્તુને બોર્ડ ઉપર લખશો જેથી વિદ્યાર્થી વધુ સારી રીતે શીખી શકે.\n5. વર્ગખંડમાં દ્વિ-માર્ગી પ્રત્યાયન કરવાનો પ્રયત્ન કરશો.",
+      "options_en": {
+        "A": "1, 2 and 4",
+        "B": "1, 3 and 4",
+        "C": "2, 4 and 5",
+        "D": "2, 3 and 5"
+      },
+      "options_gu": {
+        "A": "1, 2 અને 4",
+        "B": "1, 3 ને 4",
+        "C": "2, 4 અને 5",
+        "D": "2, 3 ને 5"
+      }
+    }
+  ]
+}
