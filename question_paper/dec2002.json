@@ -1,0 +1,502 @@
+[
+  {
+    "question_number": 1,
+    "question_text": "Complete the series: 1, 3, 4, 8, 16, ?",
+    "options": [
+      "(A) 30",
+      "(B) 31",
+      "(C) 32",
+      "(D) 33"
+    ]
+  },
+  {
+    "question_number": 2,
+    "question_text": "Complete the series: 10, 12, 16, 22, 30, ?",
+    "options": [
+      "(A) 40",
+      "(B) 50",
+      "(C) 60",
+      "(D) 70"
+    ]
+  },
+  {
+    "question_number": 3,
+    "question_text": "Complete the series: 240, 240, 120, 40, ?",
+    "options": [
+      "(A) 30",
+      "(B) 20",
+      "(C) 10",
+      "(D) 0"
+    ]
+  },
+  {
+    "question_number": 4,
+    "question_text": "If CENTRAL has been coded as XVMGIZO, what will be the correct code for PHYSICS?",
+    "options": [
+      "(A) KSBRHHX",
+      "(B) HXBHKRX",
+      "(C) KSBHRXH",
+      "(D) HXRHSBK"
+    ]
+  },
+  {
+    "question_number": 5,
+    "question_text": "If GOAT is coded as HPBU, what will be the correct code for LIME ?",
+    "options": [
+      "(A) ORNZ",
+      "(B) MJND",
+      "(C) KHLF",
+      "(D) MJNF"
+    ]
+  },
+  {
+    "question_number": 6,
+    "question_text": "If CHEMISTRY has been coded as DGFLJRUQZ, what will be the correct code for DESIGN?",
+    "options": [
+      "(A) EDTHMN",
+      "(B) EDTMHN",
+      "(C) EDTHNN",
+      "(D) EDTHHM"
+    ]
+  },
+  {
+    "question_number": 7,
+    "question_text": "If CARPET is coded as XZIKVG, what will be the correct code for MARKET?",
+    "options": [
+      "(A) NZIPUG",
+      "(B) NZIPVG",
+      "(C) NZIQVG",
+      "(D) NZIPTG"
+    ]
+  },
+  {
+    "question_number": 8,
+    "question_text": "The quality of research is judged by the:",
+    "options": [
+      "(A) Relevance of research",
+      "(B) Methodology followed in conducting the research",
+      "(C) Depth of the research",
+      "(D) Experience of the researcher"
+    ]
+  },
+  {
+    "question_number": 9,
+    "question_text": "Which one of the following statements is not correct?",
+    "options": [
+      "(A) Any person can do research.",
+      "(B) Research may be without a hypothesis.",
+      "(C) Research requires library facilities.",
+      "(D) Research is not always systematic."
+    ]
+  },
+  {
+    "question_number": 10,
+    "question_text": "The first step of research is:",
+    "options": [
+      "(A) Selection of Problem",
+      "(B) Identification of Problem",
+      "(C) Definition of Problem",
+      "(D) Locating the Problem"
+    ]
+  },
+  {
+    "question_number": 11,
+    "question_text": "A good researcher must possess:",
+    "options": [
+      "(A) an inquiry mind",
+      "(B) a master's degree",
+      "(C) a good health",
+      "(D) enough funds"
+    ]
+  },
+  {
+    "question_number": 12,
+    "question_text": "Which one of the following statements is not correct?",
+    "options": [
+      "(A) Hypothesis and assumptions are not same.",
+      "(B) Problem refers to variable.",
+      "(C) Quantitative data can be converted into qualitative data.",
+      "(D) Qualitative data may be converted into quantitative data."
+    ]
+  },
+  {
+    "question_number": 13,
+    "question_text": "Which of the following is the most appropriate title for the passage, based on its content ?",
+    "options": [
+      "(A) Adaptive Divergence",
+      "(B) Evolution",
+      "(C) Changes in Organs",
+      "(D) Our Changing Bodies"
+    ]
+  },
+  {
+    "question_number": 14,
+    "question_text": "The author provides information that would answer which of the following questions? (I) What factors cause change in organisms ? (II) What is the theory of evolution? (III) How are horses' legs related to seals' flippers ?",
+    "options": [
+      "(A) I only",
+      "(B) II only",
+      "(C) I and II only",
+      "(D) I and III only"
+    ]
+  },
+  {
+    "question_number": 15,
+    "question_text": "Which of the following words could best be substituted for 'homologous' without substantially changing the author's meaning?",
+    "options": [
+      "(A) Altered",
+      "(B) Mammalian",
+      "(C) Corresponding",
+      "(D) Divergent"
+    ]
+  },
+  {
+    "question_number": 16,
+    "question_text": "The author's style can best be described as:",
+    "options": [
+      "(A) Humorous",
+      "(B) Objective",
+      "(C) Esoteric",
+      "(D) Patronizing"
+    ]
+  },
+  {
+    "question_number": 17,
+    "question_text": "Which of the following titles best summarizes the content of the passage?",
+    "options": [
+      "(A) New methods for calculating the composition of the Atmosphere",
+      "(B) New Evidence concerning the stratification of the Atmosphere",
+      "(C) The Atmosphere: Its nature and importance to our weather",
+      "(D) The underlying causes of Atmospheric Turbulence"
+    ]
+  },
+  {
+    "question_number": 18,
+    "question_text": "According to the passage, life as we know it exists on the earth because the atmosphere:",
+    "options": [
+      "(A) contains a layer of ozone gases.",
+      "(B) contains electrically charged particles.",
+      "(C) is warmest at the bottom.",
+      "(D) carries the ultraviolet rays of the sun."
+    ]
+  },
+  {
+    "question_number": 19,
+    "question_text": "The passage supplies information that would answer which of the following questions ? (I) How do the troposphere and the stratosphere differ ? (II) How does the ionosphere affect the weather? (III) How do earth satellites study the atmosphere ?",
+    "options": [
+      "(A) I only",
+      "(B) II only",
+      "(C) III only",
+      "(D) I, II and III"
+    ]
+  },
+  {
+    "question_number": 20,
+    "question_text": "The passage states that the troposphere is the warmest part of the atmosphere because it :",
+    "options": [
+      "(A) is the closest to the sun.",
+      "(B) radiates heat into space.",
+      "(C) has winds and air current that distribute the heat.",
+      "(D) is warmed by the earth's heat."
+    ]
+  },
+  {
+    "question_number": 21,
+    "question_text": "According to the passage, the atmosphere consists of all of the following, except:",
+    "options": [
+      "(A) 21 percent oxygen",
+      "(B) a definite amount of water vapour",
+      "(C) ten permanent elements",
+      "(D) considerable waste products"
+    ]
+  },
+  {
+    "question_number": 22,
+    "question_text": "It can be inferred from the passage that at the top of Jungfrau, which is 12,000 feet above the town of Interlaken in Switzerland, the temperature is usually :",
+    "options": [
+      "(A) below freezing",
+      "(B) warmer than in Interlaken",
+      "(C) about 42 degrees colder than on the ground",
+      "(D) about 75 degrees colder than in Interlaken"
+    ]
+  },
+  {
+    "question_number": 23,
+    "question_text": "If I say 'sky is down and winter is hot', I would call a criminal:",
+    "options": [
+      "(A) Gangster",
+      "(B) A cloud",
+      "(C) Saint",
+      "(D) Delinquent"
+    ]
+  },
+  {
+    "question_number": 24,
+    "question_text": "If Dolly's mother is John's father's sister, what relation is John to Dolly's father ?",
+    "options": [
+      "(A) Cousin",
+      "(B) Nephew",
+      "(C) Uncle",
+      "(D) Brother"
+    ]
+  },
+  {
+    "question_number": 25,
+    "question_text": "Establish the relationship between the first two items. Find out the same relationship among the choices which follow the pattern of the two items: 20:21:: ?",
+    "options": [
+      "(A) 6:10",
+      "(B) 10:B",
+      "(C) S: V",
+      "(D) A: B"
+    ]
+  },
+  {
+    "question_number": 26,
+    "question_text": "What is the percentage of total students enrolled in Medical and Engineering faculties ?",
+    "options": [
+      "(A) 33.50",
+      "(B) 50.50",
+      "(C) 37.50",
+      "(D) 25.50"
+    ]
+  },
+  {
+    "question_number": 27,
+    "question_text": "What is the percentage of students enrolled in Arts and Science faculties?",
+    "options": [
+      "(A) 90",
+      "(B) 60",
+      "(C) 50",
+      "(D) 45"
+    ]
+  },
+  {
+    "question_number": 28,
+    "question_text": "What is the percentage of students enrolled in Arts and Engineering faculties ?",
+    "options": [
+      "(A) 62.50",
+      "(B) 75.00",
+      "(C) 50.50",
+      "(D) 33.33"
+    ]
+  },
+  {
+    "question_number": 29,
+    "question_text": "Suppose that the number of students enrolled in Engineering is 320; what is the number of students enrolled in Arts faculty?",
+    "options": [
+      "(A) 450",
+      "(B) 460",
+      "(C) 470",
+      "(D) 480"
+    ]
+  },
+  {
+    "question_number": 30,
+    "question_text": "Suppose, the number of students enrolled in Engineering is 320; what is the total number of students enrolled in Commerce, Arts and Medical faculties?",
+    "options": [
+      "(A) 700",
+      "(B) 800",
+      "(C) 900",
+      "(D) 1000"
+    ]
+  },
+  {
+    "question_number": 31,
+    "question_text": "All streets are watches. All watches are eagles. Therefore : (I) All streets are eagles. (II) All watches are streets.",
+    "options": [
+      "(A) if only inference (I) follows",
+      "(B) if only inference (II) follows",
+      "(C) if both of them follow",
+      "(D) if neither of them follows"
+    ]
+  },
+  {
+    "question_number": 32,
+    "question_text": "All boys are mothers. All mothers are father. Therefore : (I) All mothers are boys. (II) All boys are fathers.",
+    "options": [
+      "(A) if only inference (I) follows",
+      "(B) if only inference (II) follows",
+      "(C) if both of them follow",
+      "(D) if neither of them follows"
+    ]
+  },
+  {
+    "question_number": 33,
+    "question_text": "Monkey is a bird. Some birds are clouds. Therefore : (I) Monkey is a cloud. (II) Some clouds are birds.",
+    "options": [
+      "(A) if only inference (I) follows",
+      "(B) if only inference (II) follows",
+      "(C) if both of them follow",
+      "(D) if neither of them follows"
+    ]
+  },
+  {
+    "question_number": 34,
+    "question_text": "Which item indicates consistent decrease in the export during the four years ?",
+    "options": [
+      "(A) Electronic goods",
+      "(B) Textile",
+      "(C) Rice",
+      "(D) Sugar"
+    ]
+  },
+  {
+    "question_number": 35,
+    "question_text": "During 1990 which one of the four items had the highest percentage of export (Actual/Expected) ?",
+    "options": [
+      "(A) Machinery",
+      "(B) Textile",
+      "(C) Wheat",
+      "(D) Sugar"
+    ]
+  },
+  {
+    "question_number": 36,
+    "question_text": "During which year the percent export of wheat was the lowest ?",
+    "options": [
+      "(A) 1990",
+      "(B) 1991",
+      "(C) 1992",
+      "(D) 1993"
+    ]
+  },
+  {
+    "question_number": 37,
+    "question_text": "In which year sugar export was the lowest ?",
+    "options": [
+      "(A) 1990",
+      "(B) 1992",
+      "(C) 1993",
+      "(D) None of these"
+    ]
+  },
+  {
+    "question_number": 38,
+    "question_text": "During 1993 which item has the lowest percentage of export ?",
+    "options": [
+      "(A) Rice",
+      "(B) Sugar",
+      "(C) Wheat",
+      "(D) Machinery"
+    ]
+  },
+  {
+    "question_number": 39,
+    "question_text": "Which word does not belong to the other three ?",
+    "options": [
+      "(A) Think",
+      "(B) See",
+      "(C) Hear",
+      "(D) Smell"
+    ]
+  },
+  {
+    "question_number": 40,
+    "question_text": "Find one group of letters which is different from the other three:",
+    "options": [
+      "(A) TRP",
+      "(B) SQO",
+      "(C) TVX",
+      "(D) YWU"
+    ]
+  },
+  {
+    "question_number": 41,
+    "question_text": "Teaching refers to:",
+    "options": [
+      "(A) giving information related to the subject.",
+      "(B) creating environment that is conducive for learning.",
+      "(C) dictating notes in the classroom.",
+      "(D) solving difficulties of students related to the subject."
+    ]
+  },
+  {
+    "question_number": 42,
+    "question_text": "Which one of the following statements in not true?",
+    "options": [
+      "(A) Majority of teachers use lecture method.",
+      "(B) The lecture method is less structured.",
+      "(C) Lecture method is the best for giving more information in less time.",
+      "(D) There are well-defined steps of lecture method."
+    ]
+  },
+  {
+    "question_number": 43,
+    "question_text": "Good teaching is best reflected by:",
+    "options": [
+      "(A) meaningful questions asked by students.",
+      "(B) attendance of students.",
+      "(C) number of distinctions.",
+      "(D) pin-drop silence in the class."
+    ]
+  },
+  {
+    "question_number": 44,
+    "question_text": "The main objective of teaching at higher education level is:",
+    "options": [
+      "(A) to give information.",
+      "(B) to develop reasoning and thinking abilities.",
+      "(C) to develop expression power.",
+      "(D) to develop study habits."
+    ]
+  },
+  {
+    "question_number": 45,
+    "question_text": "Noise in the classroom is best indicative of:",
+    "options": [
+      "(A) Only interaction among students.",
+      "(B) Only interaction among teacher and students.",
+      "(C) Only interaction between teacher and student.",
+      "(D) (A) and/or (B)."
+    ]
+  },
+  {
+    "question_number": 46,
+    "question_text": "A student is reading a book at home. In this situation :",
+    "options": [
+      "(A) There is no communication.",
+      "(B) There is a communication.",
+      "(C) There is a two-way communication.",
+      "(D) There is only non-verbal communication."
+    ]
+  },
+  {
+    "question_number": 47,
+    "question_text": "The facial expressions of students relate to which element of the communication process?",
+    "options": [
+      "(A) Message",
+      "(B) Receiver",
+      "(C) Sender",
+      "(D) Channel"
+    ]
+  },
+  {
+    "question_number": 48,
+    "question_text": "Communication refers to:",
+    "options": [
+      "(A) exchange of information only.",
+      "(B) exchange of feelings only.",
+      "(C) exchange of information, feelings, emotions and views.",
+      "(D) exchange of emotions only."
+    ]
+  },
+  {
+    "question_number": 49,
+    "question_text": "The Indian classrooms are generally best characterised by:",
+    "options": [
+      "(A) One-way verbal communication",
+      "(B) Two-way verbal communication",
+      "(C) One-way communication",
+      "(D) Verbal communication"
+    ]
+  },
+  {
+    "question_number": 50,
+    "question_text": "Two persons sitting facing each other are engrossed in thinking. In this situation:",
+    "options": [
+      "(A) There is non-verbal communication.",
+      "(B) There is no communication.",
+      "(C) There is two-way non-verbal communication.",
+      "(D) There is less verbal communication."
+    ]
+  }
+]
