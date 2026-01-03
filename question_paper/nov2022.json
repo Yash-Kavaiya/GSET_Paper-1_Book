@@ -1,0 +1,862 @@
+{
+  "filename": "nov22p1.pdf",
+  "booklet_no": "224565",
+  "booklet_type": "A",
+  "paper": "PAPER-I",
+  "exam_date": "NOV-22",
+  "total_questions": 50,
+  "questions": [
+    {
+      "question_number": 1,
+      "context_en": "At first sight silence would seem to be the essence of non communication. Yet we know that in some circumstances silence can speak volumes. It is also a potent tool in the communication tool box, for the speaker, as it adds emphasis to point, allowing time for its full significance to sink in. Handled skillfully, it can build up anticipation for what is to come the pregnant pause. It gives opportunity to make eye contact with audience and gauge their reactions. It is an essential component of the timing of one's delivery. For the listener silence can buy time, either to digest what has been said or to consider a response, or both. Silence will, often lure the speaker into saying more than he or she may have intended.",
+      "context_gu": "એક નજરમાં આપણને લાગે કે ચુપકીદી વાતચીત ન કરવાનો સાર છે. એ સાથે પરિસ્થિતિમાં ચુપકીદી બોલવા કરતા પણ વધુ વજન આવે છે. આ કારણે વક્તાઓ માટે આ મહત્વનો પ્રત્યાયન ઉપકરણ છે, કે ક્યાં શબ્દો ને ભાર આપવો, ક્યા શબ્દને પુરૂ મહત્વ આપું વગેરે........ જો આને કુશળતાપૂર્વક વાપરીએ તો જિજ્ઞાસાને મહત્વપૂર્ણ દીર્ઘ વિરામથી દર્શાવી શકે છે. શ્રોતાઓ અને વક્તા વચ્ચે દ્રષ્ટિ સંપર્ક કરવાનો તક આપે છે. શ્રોતાના ભાગને પણ માપી શકાય છે. વક્તા અને શ્રોતા વચ્ચેનું આ મહત્વપૂર્ણ ઘટક છે. રજુઆત ની સમય સૂચકતા છે. શ્રોતાઓ માટે ચુપકીદી થોડો સમય ફાળવી જિજ્ઞાસા દર્શાવે છે. જેનાથી ક્યાં તો જે કહેવાયુ છે એ ગ્રહણ થાય અથવા તો ... તેથી ચુપકીદી વક્તા ને બોલવા કરતા પણ વધારે આકર્ષે છે.",
+      "question_text_en": "Silence is an essential component of",
+      "question_text_gu": "ચુપકીદી મહત્વપૂર્ણ ઘટક છે",
+      "options_en": {
+        "A": "Non-communication",
+        "B": "Gauging reaction of people",
+        "C": "The timing of one's delivery",
+        "D": "Distraction"
+      },
+      "options_gu": {
+        "A": "અપ્રત્યાયનમાં",
+        "B": "લોકોની પ્રતિક્રિયાનું માપન",
+        "C": "રજુઆતની સમય સુચક્તામાં",
+        "D": "વિક્ષેપ"
+      }
+    },
+    {
+      "question_number": 2,
+      "question_text_en": "According to the author, the pregnant pause",
+      "question_text_gu": "લેખક પ્રમાણે દીર્ઘ વિરામ એટલે",
+      "options_en": {
+        "A": "Breaks up communication",
+        "B": "Helps communication",
+        "C": "Build up anticipation",
+        "D": "Leads to confusion"
+      },
+      "options_gu": {
+        "A": "વાતચીત બંધ કરવી",
+        "B": "વાતચીતમાં મદદ રૂપ",
+        "C": "જિજ્ઞાસા દર્શાવી",
+        "D": "મૂંઝવણ પેદા કરવી"
+      }
+    },
+    {
+      "question_number": 3,
+      "question_text_en": "For the listener silence can",
+      "question_text_gu": "શ્રોતાઓ માટે ચુપકીદી",
+      "options_en": {
+        "A": "Emphasize a point",
+        "B": "Be a potent tool",
+        "C": "Speak volumes",
+        "D": "Buy time"
+      },
+      "options_gu": {
+        "A": "મુદ્દાઓ તે વજન આવે",
+        "B": "મહત્વપૂર્ણ ઉપકરણ",
+        "C": "વધુ બોલે",
+        "D": "વિચારવાનો સમય મળે"
+      }
+    },
+    {
+      "question_number": 4,
+      "question_text_en": "Silence seems to be essence of",
+      "question_text_gu": "ચુપકીદી શ્રોતાઓ માટે સાર છે",
+      "options_en": {
+        "A": "Communication",
+        "B": "Transmission",
+        "C": "Non-Communication",
+        "D": "Communication tool box"
+      },
+      "options_gu": {
+        "A": "વાતચીતમાં",
+        "B": "પ્રસારણ",
+        "C": "બિન પ્રત્યાયન",
+        "D": "પ્રત્યાયન ઉપકરણ"
+      }
+    },
+    {
+      "question_number": 5,
+      "question_text_en": "What provides an opportunity to make eye contact with the audience ?",
+      "question_text_gu": "કોણ તક આપે છે વક્તા અને શ્રોતા વચ્ચે દ્રષ્ટિ સંપર્ક કરવાનો",
+      "options_en": {
+        "A": "Communication",
+        "B": "Discussion",
+        "C": "Silence",
+        "D": "Gesture"
+      },
+      "options_gu": {
+        "A": "વાતચીત",
+        "B": "ચર્ચા",
+        "C": "ચુપકીદી",
+        "D": "હાવભાવ"
+      }
+    },
+    {
+      "question_number": 6,
+      "question_text_en": "Which of the following are considered as both input and output devices ?\na. Touch screen\nb. USB memory devices\nc. CD drive\nd. Screen projector",
+      "question_text_gu": "આમા થી ક્યા ઈનપુટ અને આઉટપુટ બંને ઉપકરણો મા શામિલ થાય છે ?\na. ટચ સ્ક્રીન\nb. USB મેમોરી ડીવાઈશ\nc. CD ડ્રાઈવ\nd. સ્ક્રીન પ્રોજેક્ટર",
+      "options_en": {
+        "A": "a, c and d",
+        "B": "a, b and c",
+        "C": "a, b and d",
+        "D": "b, c and d"
+      },
+      "options_gu": {
+        "A": "a, c અને d",
+        "B": "a, b અને c",
+        "C": "a, b અને d",
+        "D": "b, c અને d"
+      }
+    },
+    {
+      "question_number": 7,
+      "question_text_en": "Which of the following statements are true ?\na. Cache memory is used to enhance the performance of computer system.\nb. Primary memory is also known as main memory.\nc. Hard disk is an example of secondary memory.\nd. Static Random Access Memory (SRAM) is not a Cache memory.",
+      "question_text_gu": "નીચે આપેલામાં કયું વિધાન સાચો છે\na. કૈચ મેમોરીનો વપરાશ કમ્પ્યુટર સિસ્ટમની કાર્યક્ષમતા વધારવા માટે\nb. પ્રાઈમરી મેમોરી, મેન મેમોરી તરીકે ઓળખાય છે.\nc. હાર્ડ ડીસ્ક, સેકેન્ડ્રી મેમોરીનો દ્રષ્ટાંત છે\nd. સ્ટેટિક રેનડોમ એક્સેસ મેમોરી (SRAM) કૈચ મેમોરી નથી.",
+      "options_en": {
+        "A": "a and b are true, while c and d are false",
+        "B": "a and c are true, while b and d are false",
+        "C": "b, c and d are true, while a is false",
+        "D": "a, b and c are true, while d is false"
+      },
+      "options_gu": {
+        "A": "a અને b સાચા છે અને c અને d ખોટા છે.",
+        "B": "a અને c સાચા છે અને b અને d ખોટા છે.",
+        "C": "b, c અને d સાચા છે અને a ખોટો છે.",
+        "D": "a, b અને c સાચા છે અને d ખોટો છે."
+      }
+    },
+    {
+      "question_number": 8,
+      "question_text_en": "Which of the following are characteristics of CC-BY SA?\na. Allows to copy and publish\nb. Attribution required\nc. Cannot be used commercially\nd. Cannot be modified and adapted\ne. Cannot change license",
+      "question_text_gu": "નીચે આપેલ વિકલ્પોમાં ક્યા વિકલ્પમાં CC – BY - SA ના લક્ષણ છે\na. નકલ અને પ્રકાશિત કરવાની મંજૂરી\nb. ઋણ સ્વીકારની આવશ્યકતા\nc. વ્યાવસાયિક રીતે ન વપરાય\nd. સુધારો કે સ્વીકાર ન થઇ શકે\ne. લાયસેંસ બદલી ન શકાય",
+      "options_en": {
+        "A": "a, b and e",
+        "B": "a, b, d and e",
+        "C": "a, c, d and e",
+        "D": "b, d and e"
+      },
+      "options_gu": {
+        "A": "a, b અને e",
+        "B": "a, b, d અને e",
+        "C": "a, c, d અને e",
+        "D": "b, d અને e"
+      }
+    },
+    {
+      "question_number": 9,
+      "question_text_en": "In relation to NMEICT mission document, which of the following is not true for opportunities of ICT in education?",
+      "question_text_gu": "NMEICT મિશનના સંબંધમા કયો વિકલ્પ ICT માં શિક્ષણ માટે તક આપે છે.",
+      "options_en": {
+        "A": "Availability of EduSAT",
+        "B": "High power consumption connectivity and computing devices",
+        "C": "The abundance of knowledge on the internet",
+        "D": "Rapidly expanding network of cyber kiosks and cyber cafes"
+      },
+      "options_gu": {
+        "A": "એડ્યુસેટની ઉપલબ્ધતા",
+        "B": "ઉચ્ચત્ક્ષમતા વપરાશ જોડાણ અને કામ્પ્યુટિંગ ડિવાઈસ",
+        "C": "ઇન્ટરનેટથી માહિતીની પ્રચુરતા",
+        "D": "સાઈબર કિવોસ અને સાઈબર કેફ્સ દ્વારા ઝડપથી નેટવર્કનો વિસ્તાર"
+      }
+    },
+    {
+      "question_number": 10,
+      "question_text_en": "Which of the following has been conceived as 'One Stop Education Portal'?",
+      "question_text_gu": "આમાથી કયો વિકલ્પ 'વન સ્ટેપ એજ્યુકેશન પોર્ટલ' ના સંદર્ભમાં છે.",
+      "options_en": {
+        "A": "SAMAGRA",
+        "B": "SAMARTH",
+        "C": "SAKSHAT",
+        "D": "DIKSHA"
+      },
+      "options_gu": {
+        "A": "સમગ્ર",
+        "B": "સમર્થ",
+        "C": "સાક્ષાત",
+        "D": "દીક્ષા"
+      }
+    },
+    {
+      "question_number": 11,
+      "question_text_en": "Look this series 40, 38, 34, 32, 28, what number should come next?",
+      "question_text_gu": "40,38,34,32,28, હવે કયો આંકડો આવવો જોઈએ ?",
+      "options_en": {
+        "A": "24",
+        "B": "22",
+        "C": "27",
+        "D": "26"
+      },
+      "options_gu": {
+        "A": "24",
+        "B": "22",
+        "C": "27",
+        "D": "26"
+      }
+    },
+    {
+      "question_number": 12,
+      "question_text_en": "Find the next term of given series.\nABD, DGK, HMS, MTB, SBL, _____",
+      "question_text_gu": "આપેલ હરોળમાં હવે આવનાર શબ્દ કયો હશે ?\nABD, DGK, HMS, MTB, SBL, _____",
+      "options_en": {
+        "A": "ZKU",
+        "B": "ZKW",
+        "C": "XKW",
+        "D": "ZAB"
+      },
+      "options_gu": {
+        "A": "ZKU",
+        "B": "ZKW",
+        "C": "XKW",
+        "D": "ZAB"
+      }
+    },
+    {
+      "question_number": 13,
+      "question_text_en": "Find the next term of given series.\nC4X, F9U, I16R, _____",
+      "question_text_gu": "આપેલ હરોળમાં હવે આવનાર શબ્દ કયો હશે?\nC4X, F9U, I16R, _____",
+      "options_en": {
+        "A": "L25P",
+        "B": "L25O",
+        "C": "L27P",
+        "D": "L29S"
+      },
+      "options_gu": {
+        "A": "L25P",
+        "B": "L250",
+        "C": "L27P",
+        "D": "L29S"
+      }
+    },
+    {
+      "question_number": 14,
+      "question_text_en": "Which of the following is in descending order ?",
+      "question_text_gu": "નીચે પૈકી કયું ઉતરતા ક્રમમાં છે ?",
+      "options_en": {
+        "A": "5/8, 9/13, 11/17",
+        "B": "5/8, 11/17, 9/13",
+        "C": "9/13, 11/17, 5/8",
+        "D": "11/17, 9/13, 5/8"
+      },
+      "options_gu": {
+        "A": "5/8, 9/13, 11/17",
+        "B": "5/8, 11/17, 9/13",
+        "C": "9/13, 11/17, 5/8",
+        "D": "11/17, 9/13, 5/8"
+      }
+    },
+    {
+      "question_number": 15,
+      "question_text_en": "4/7 of 2/3 of 5/6 of 5/8 of 1008 is",
+      "question_text_gu": "1008 5/8 5/6 2/3 એ 4/7 નીચે પૈકી શું થાય ?",
+      "options_en": {
+        "A": "200",
+        "B": "144",
+        "C": "64",
+        "D": "400"
+      },
+      "options_gu": {
+        "A": "200",
+        "B": "144",
+        "C": "64",
+        "D": "400"
+      }
+    },
+    {
+      "question_number": 16,
+      "question_text_en": "Which of the following pollutants pose the highest risk to human health and environment ?",
+      "question_text_gu": "નીચેનામાંથી કયું પ્રદુષકો માનવ આરોગ્ય અને પર્યાવરણ માટે અતિ હાનીકારક છે.",
+      "options_en": {
+        "A": "Particulate matter",
+        "B": "Nitrogen dioxide",
+        "C": "Sulphur dioxide",
+        "D": "Carbon monoxide"
+      },
+      "options_gu": {
+        "A": "રજકણ",
+        "B": "નાઈટ્રોજન ડાયોક્સાઈડ",
+        "C": "સલ્ફર ડાયોક્સાઈડ",
+        "D": "કાર્બન મોનોક્સાઈડ"
+      }
+    },
+    {
+      "question_number": 17,
+      "question_text_en": "Which of the following is not a priority area for Education for Sustainable Development' for 2030?",
+      "question_text_gu": "નીચેનામાંથી કયું પ્રાથમિકતા ક્ષેત્રમાં નથી",
+      "options_en": {
+        "A": "Advancing Policy",
+        "B": "Transforming Learning Environments",
+        "C": "Empowering and mobilizing youth",
+        "D": "Building capacities of administrators"
+      },
+      "options_gu": {
+        "A": "પ્રગત નીતિ",
+        "B": "સીખ્વાના વાતાવરણમાં પરિવર્તન",
+        "C": "યુવાઓને સશક્ત અને ગતિશીલ કરવું",
+        "D": "પ્રશાશકની ક્ષમતાનો વિકાસ"
+      }
+    },
+    {
+      "question_number": 18,
+      "question_text_en": "Match the following and choose the correct option given below.\n\nMovement:\nI. Chipko Movement\nII. Narmada Bachao Movement\nIII. Green Revolution\nIV. Bishnoi Movement\n\nActivist:\na. M. S. Swaminathan\nb. Medha Paatekar\nc. Amrita Devi\nd. Sunderlal Bahuguna",
+      "question_text_gu": "નીચે આપેલ વિકલ્પોને મેળવી સાચો વિકલ્પ લાખો.\n\nઆંદોલન:\nI. ચીપકો આંદોલન\nII. નર્મદ બચાવ આંદોલન\nIII. હરિત ક્રાંતિ\nIV. વિશનોઈ આંદોલન\n\nઆંદોલનકારી:\na. મ.સ. સ્વામીનાથન\nb. મેઘા પાટકર\nc. અમૃતા દેવી\nd. સુન્દરલાલ બહુગુણા",
+      "options_en": {
+        "A": "I-b, II-a, III-d, IV-c",
+        "B": "I-c, II-b, III-a, IV-d",
+        "C": "I-d, II-b, III-a, IV-c",
+        "D": "I-a, II-b, III-c, IV-d"
+      },
+      "options_gu": {
+        "A": "I-b, II-a, III-d, IV-c",
+        "B": "I-c, II-b, III-a, IV-d",
+        "C": "I-d, II-b, III-a, IV-c",
+        "D": "I-a, II-b, III-c, IV-d"
+      }
+    },
+    {
+      "question_number": 19,
+      "question_text_en": "\"The Future We Want\" is an outcome document of",
+      "question_text_gu": "કયું વિકલ્પ “દ ફ્યૂચર વી વાન્ટ” નું પરિણામ છે",
+      "options_en": {
+        "A": "Brundtland Commission",
+        "B": "United Nations Conference on Sustainable Development",
+        "C": "World Commission on Environment and Development",
+        "D": "United Nations Environment Programme"
+      },
+      "options_gu": {
+        "A": "બ્રટલેન્ડ આયોગ",
+        "B": "ટકાઉ વિકાસ પર સંયુક્ત રાષ્ટ્રની પરિષદ",
+        "C": "પર્યાવરણ અને વિકાસ પર વિશ્વ કમિશન",
+        "D": "યૂનાઈટેડ નેશન્સ એન્વાર્યમેન્ટ પ્રોગ્રામ"
+      }
+    },
+    {
+      "question_number": 20,
+      "question_text_en": "The Nagoya Protocol on 'Access to Genetic Resources and the fair and equitable sharing of Benefits' is an",
+      "question_text_gu": "આનુવંશિક સંસાધનોની ઍક્સેસ અને લાભોની ન્યાયી અને સમાન વહેંચણી પર નાગોયા પ્રોટોકોલ",
+      "options_en": {
+        "A": "International agreement that aims to lessen water pollution",
+        "B": "International agreement which aims at sharing the benefits arising from the utilization of genetic resources in all possible ways",
+        "C": "International agreement which aims at sharing the benefits arising from the utilization of genetic resources in a fair and equitable way",
+        "D": "International agreement which aims to ensure the safe handling, transport and use of living modified organisms (LMOs)"
+      },
+      "options_gu": {
+        "A": "આંતરરાષ્ટ્રીય સમજૂતી જેનો ઉદ્દેશ જળ પ્રદૂષણ ઘટાડવાનો છે",
+        "B": "આંતરરાષ્ટ્રીય સમજૂતી જેનો ઉદ્દેશ તમામ શક્ય રીતે આનુંવંશિક સંસાધનોના ઉપયોગથી ઉદ્ભવતા લાભોને વહેંચવાનો છે",
+        "C": "આંતરરાષ્ટ્રીય સમજૂતી જેનો ઉદ્દેશ આનુવંશિક સંસાધનોના ઉપયોગથી ઉદ્ભવતા લાભોને ન્યાયી અને સામાનરીતે વહેંચવાનો છે",
+        "D": "આંતરરાષ્ટ્રીય સમજૂતી જેનો ઉદ્દેશ સલામતી પરિવહન અને living modified organisms નો ઉપયોગ (LMOs)"
+      }
+    },
+    {
+      "question_number": 21,
+      "question_text_en": "Study the chart and answer the question, the Pie chart given here represents the domestic expenditure of a family in percent. If the total monthly income of the family is Rs. 55,660/-. After PF deductions and payment of the house rent, the total monthly income of the family remains\n(Chart data: Child Education 21%, PF [value missing in text but deduced], Food [value missing], House Rent [value missing], Entertainment [value missing], Medical [value missing])",
+      "question_text_gu": "ચાર્ટનો અભ્યાસ કરી પ્રશ્નો જવાબ આપો, આ પાઈ ચાર્ટમાં એક કુટુંબના વર્તમાન ખર્ચ દર્શાવે છે.જો કુટુંબની કુલ માસિક આવક રૂા 55,660/- છે. તો PF અને ઘરભાડું આપ્યા બાદ કુટુંબની કુલ માસિક આવક રહે છે :",
+      "options_en": {
+        "A": "38662",
+        "B": "38862",
+        "C": "38962",
+        "D": "38752"
+      },
+      "options_gu": {
+        "A": "38662",
+        "B": "38862",
+        "C": "38962",
+        "D": "38752"
+      }
+    },
+    {
+      "question_number": 22,
+      "question_text_en": "Choose the graph that best fits with this statement: \"House prices rose in January and February, fell slightly in March and are now holding steady\".",
+      "question_text_gu": "આ વિધાન સાથે જે સૌથી વધુ સુસંગત હોય એ આકૃતિ પસંદ કરો : \"મકાનની કિમત જાન્યુઆરી અને ફેબ્રુઆરી માં વધી હતી, માર્ચમાં થોડી ઘટી અને હવે સ્થિર છે.”",
+      "options_en": {
+        "A": "(Graph A)",
+        "B": "(Graph B)",
+        "C": "(Graph C)",
+        "D": "(Graph D)"
+      },
+      "options_gu": {
+        "A": "(Graph A)",
+        "B": "(Graph B)",
+        "C": "(Graph C)",
+        "D": "(Graph D)"
+      }
+    },
+    {
+      "question_number": 23,
+      "question_text_en": "A researcher uses systematic random sampling from a company directory that has 500 employees listed in alphabetical order. If the desired samples size is 20, and the first name to be selected is number 9, which of the following will not be selected ?",
+      "question_text_gu": "એક કંપની ડિરેક્ટરીમાં 500 કર્મચારીના નામો મૂળાક્ષર મુજબ ગોઠવાયેલ છે. સંશોધક સિસ્ટમેટીક યાદછિક નમુના પસંદગીનો ઉપયોગ કરે છે. જો અપેક્ષિત નમૂનાનું કદ 20 હોય અને પ્રથમ પસંદ થયેલ નંબર 9 હોય, તો નીચે પૈકી કયો નંબર પસંદ થશે નહીં ?",
+      "options_en": {
+        "A": "89",
+        "B": "134",
+        "C": "309",
+        "D": "484"
+      },
+      "options_gu": {
+        "A": "89",
+        "B": "134",
+        "C": "309",
+        "D": "484"
+      }
+    },
+    {
+      "question_number": 24,
+      "question_text_en": "The bar graph given below shows the Foreign Exchange Reserves of a Country (in millions US$) from 1991-92 to 1998-99. The ratio of the number of years in which the foreign exchange reserves are above the average reserves, to those in which the reserves are below the average reserves is",
+      "question_text_gu": "નીચે આપેલ સ્તંભાલેખમાં 1991-92 થી 1998-99 સુધીના વિદેશી મુદ્રા ભંડારને દર્શાવે છે. (in millions US$) જેમાં વિદેશી મુદ્રા ભંડાર સરાસરીથી ઉપર, અને સરાસરીની નીચે છે તે વર્ષની સંખ્યા જણાવો.",
+      "options_en": {
+        "A": "2:6",
+        "B": "3:4",
+        "C": "3:5",
+        "D": "4:4"
+      },
+      "options_gu": {
+        "A": "2:6",
+        "B": "3:4",
+        "C": "3:5",
+        "D": "4:4"
+      }
+    },
+    {
+      "question_number": 25,
+      "question_text_en": "What is the major purpose of Data Interpretation?",
+      "question_text_gu": "માહિતી અર્થઘટનનો મુખ્ય હેતુ જણાવો.",
+      "options_en": {
+        "A": "Getting meaning from the data and arriving as a conclusion",
+        "B": "Classification of data",
+        "C": "Analysis of data using suitable statistical tool",
+        "D": "Comparing different classified data"
+      },
+      "options_gu": {
+        "A": "માહિતી માથી અર્થ મેળવવો અને પરિણામ ઉપર આવવું.",
+        "B": "માહિતીનું વર્ગીકરણ",
+        "C": "યોગ્ય આંકડાશાસ્ત્રીય ઉપકરણ દ્વારા માહિતીનું વિષ્લેષણ",
+        "D": "જૂદી-જૂદી વર્ગીકૃત માહિતીની તુલના કરવી."
+      }
+    },
+    {
+      "question_number": 26,
+      "question_text_en": "The main objective of formative evaluation",
+      "question_text_gu": "રચનાત્મક(ફોરમેટીવ) મૂલ્યાંકનનો મુખ્ય હેતુ",
+      "options_en": {
+        "A": "To find out the difficulties in learning",
+        "B": "To enhance students' learning",
+        "C": "To promote students to the next class",
+        "D": "To develop cooperation among students"
+      },
+      "options_gu": {
+        "A": "અધ્યયનમાં પડતી મૂશ્કેલીઓ શોધવી",
+        "B": "વિદ્યાર્થીના અધ્યયનને વધારવું.",
+        "C": "વિદ્યાર્થીને આગળના વર્ગખંડમાં મોકલવું.",
+        "D": "વિદ્યાર્થીઓમાં સહકારિતા વિકસાવવા."
+      }
+    },
+    {
+      "question_number": 27,
+      "question_text_en": "Which of the following options is not befitting to online teaching concept ?",
+      "question_text_gu": "નીચે પૈકીના ક્યાં વિકલ્પ ઓન લાઈન અધ્યાપન સંકલ્પનામાં સુસંગત નથી ?",
+      "options_en": {
+        "A": "Swayamprabha",
+        "B": "Massive Open Online Courses",
+        "C": "Shodh Ganga",
+        "D": "Google meet"
+      },
+      "options_gu": {
+        "A": "સ્વયંપ્રભા",
+        "B": "મેસીવ ઓપન ઓનલાઈન કોર્સિસ",
+        "C": "શોધ ગંગા",
+        "D": "ગુગલ મિટ"
+      }
+    },
+    {
+      "question_number": 28,
+      "question_text_en": "Which of the following statements about individual differences are true ?\n1. Every child is unique and different from each other.\n2. The same level of intelligence, the achievement level of student may be different.\n3. Heredity and environment both are the reason for individual differences.\n4. Individual differences are related to psychology only.\n5. Individual differences are there but it does not make any difference.",
+      "question_text_gu": "નીચે પૈકીના ક્યા વિધાનો વૈયક્તિક તફાવતોના સંદર્ભમાં સાચા છે.\n1. પ્રત્યેક વિદ્યાર્થી / બાળક અદ્વિતીય છે અને એક –બીજાથી જુદા છે.\n2. સરખી બુદ્ધિકક્ષા હોવા છતાં, સિદ્ધિ કક્ષા જૂદી –જૂદી- હોય શકે.\n3. વારસો અને વાતાવરણ એ બંને વૈયક્તિક તફાવતો માટેના કારણો છે.\n4. વૈયક્તિક તફાવતો ફક્ત મનોવૈજ્ઞાનિક બાબત સાથે સંલગ્ન છે.\n5. વૈયક્તિક તફાવતો હોઈ શકે પણ એનાથી કોઈ ફર્ક પડતો નથી.",
+      "options_en": {
+        "A": "1, 2 and 3",
+        "B": "1, 2 and 4",
+        "C": "2, 3 and 5",
+        "D": "3, 4 and 5"
+      },
+      "options_gu": {
+        "A": "1, 2 ને 3",
+        "B": "1, 2 અને 4",
+        "C": "2, 3 અને 5",
+        "D": "3, 4 અને 5"
+      }
+    },
+    {
+      "question_number": 29,
+      "question_text_en": "One of your student remains quite in the class discussion while he/she is very talkative and playful outside the class, what would you do?\n1. Try to find why he/she remains quite in the class discussion and talk to him/her.\n2. Assign him/her some topic to speak in the class.\n3. You will ask question to the student so he/she has to speak.\n4. Let him/her be quite as it is his/her nature.\n5. Send him/her to playground and let him play where he/she is comfortable.",
+      "question_text_gu": "તારા વર્ગ વિદ્યાર્થી વર્ગખંડ ચર્ચામાં શાંત/નિષ્ક્રિય રહે છે, જયારે વર્ગખંડ બહાર તે વાચાળ અને રમતીયાળ છે, તમે શું કરશો?\n1. વર્ગખંડ ચર્ચામાં તે શા માટે નિષ્ક્રિય રહે છે તેની તપાસ કરશો અને તેની સાથે વાત કરશો.\n2. વર્ગખંડમાં બોલવા માટે તેને એક મુદ્દાની સોંપણી કરશો.\n3. તેમ એ વિદ્યાર્થીને પ્રશ્ન પૂછશો જેથી તેને બોલવું પડશે.\n4. તેને શાંત રહેવા દો, કેમકે એ જ તેની પ્રકૃતિ છે.\n5. તેને રમતના મેદાનમાં મોકલો અને તેને રમવા દો કેમકે ત્યાં જ એ સક્રિય છે.",
+      "options_en": {
+        "A": "1, 2 and 3",
+        "B": "2, 3 and 4",
+        "C": "1, 3 and 5",
+        "D": "2, 4 and 5"
+      },
+      "options_gu": {
+        "A": "1, 2 અને 3",
+        "B": "2, 3 અને 4",
+        "C": "1, 3 અને 5",
+        "D": "2, 4 અને 5"
+      }
+    },
+    {
+      "question_number": 30,
+      "question_text_en": "Bright student causes disturbance in showing of his/her knowledge while you are teaching, what would you do ?\n1. Give him/her some work that he can not do so he realise that he/she doesn't know everything.\n2. Give him/her some difficult work in the area of his/her interest.\n3. Give him/her some books to read in the area of his/her interest.\n4. You will connect his/her points in your talk.\n5. Complain against him/her to his/her parents.",
+      "question_text_gu": "જયારે તમે શીખવી રહ્યા છો ત્યારે એક તેજસ્વી વિદ્યાર્થી પોતાનું જ્ઞાનનો દેખાડો કરી વર્ગખંડમાં ખલેલ પહોચાડી રહ્યો છે. તમે શું કરશો ?\n1. તેને તે ન કરી શકે એવું કામ આપશો જેથી તેને ખ્યાલ આવે કે તે બધું જ જાણતો /જાણતી નથી.\n2. તેના રસના ક્ષેત્રમાં તેને થોડું મૂશ્કેલ કામ આપશો.\n3. તેના રસના ક્ષેત્રમાં તેને થોડા પૂસ્તકો વાંચવા આપશો.\n4. તમારા પ્રવચનમાં તમે તેના મુદ્દાઓને જોડશો.\n5. તેના વિરુદ્ધ તેના વાલીને ફરિયાદ કરશો.",
+      "options_en": {
+        "A": "1, 2 and 4",
+        "B": "2, 4 and 5",
+        "C": "2, 3 and 5",
+        "D": "2, 3 and 4"
+      },
+      "options_gu": {
+        "A": "1, 2 ને 4",
+        "B": "2, 4 ને 5",
+        "C": "2, 3 અને 5",
+        "D": "2, 3 ને 4"
+      }
+    },
+    {
+      "question_number": 31,
+      "question_text_en": "Deep Ecology has focused upon\na. Ecosophy\nb. Sustainable life style\nc. Richness and diversity of life\nd. Deforestation\ne. Only abiotic ecosystem\nChoose the correct option given below.",
+      "question_text_gu": "ઉંડું ઇકોલોજીએ ધ્યાન દોરયુ છે\na. ઇકોસોફી\nb. ટકાઉ જીવનશૈલી\nc. સમૃદ્ધતા અને જીવનની વિવિધતા\nd. વનનાબૂદી\ne. જૈવિક ઇકોસિસ્ટમ\nનીચે આપેલ વિકલ્પોમાંથી સાચો વિકલ્પ શોધો",
+      "options_en": {
+        "A": "Options b, d and e are correct",
+        "B": "Options a, c and b are correct",
+        "C": "Options a, b and e are correct",
+        "D": "Options b, c and e are correct"
+      },
+      "options_gu": {
+        "A": "વિકલ્પ b, d અને e સાચો છે",
+        "B": "વિકલ્પ a, c અને b સાચો છે",
+        "C": "વિકલ્પ a, b અને e સાચો છે",
+        "D": "વિકલ્પ b, c અને e સાચો છે"
+      }
+    },
+    {
+      "question_number": 32,
+      "question_text_en": "As per the latest report on 'All India Survey on Higher Education (2019-2020)', the Gender Parity Index in India is",
+      "question_text_gu": "“ઓલ ઇંડિયા સર્વે ઓન હાયર એજ્યુકેશન (2019-20)\" ના તાજેતરનો અહેવાલ પ્રમાણે લિંગ સમાનતા ઇન્ડેક્સ",
+      "options_en": {
+        "A": "1.01",
+        "B": "1.02",
+        "C": "1.11",
+        "D": "1.21"
+      },
+      "options_gu": {
+        "A": "1.01",
+        "B": "1.02",
+        "C": "1.11",
+        "D": "1.21"
+      }
+    },
+    {
+      "question_number": 33,
+      "question_text_en": "Higher Education 4.0 has emphasized more upon",
+      "question_text_gu": "ઊચ્ચશિક્ષણ 4.0 એ ભાર મુક્યો છે",
+      "options_en": {
+        "A": "Synchronous learning",
+        "B": "Blended mode of learning",
+        "C": "Face to face learning",
+        "D": "Adult and continuing learning"
+      },
+      "options_gu": {
+        "A": "સિનક્રોનસ લર્નિંગ",
+        "B": "ભણવાની મિશ્રિત પદ્ધતિ",
+        "C": "રૂબરૂ ભણતર",
+        "D": "પ્રૌઢ અને નિરન્તર શિક્ષણ"
+      }
+    },
+    {
+      "question_number": 34,
+      "question_text_en": "Match the following given in List - I and List II and select the correct option given below.\n\nList - I\n1. National Digital Library\n2. National Academic Depository\n3. e-Yantra\n4. e-Shodh Sindhu\n\nList - II\na. Plenty of international electronic journals and e-books are made available to all HEIs\nb. To incorporate Robotics in Engineering Education\nc. To facilitate digital issuance, storage, access and verification of Academic credentials\nd. To develop a framework of virtual repository of learning resources with a single window search facility",
+      "question_text_gu": "નીચે આપેલ યાદી I અને II ને મેળવી સાચો વિકલ્પ શોધો.\n\nયાદી - I\n1. નેશનલ ડીજીટલ લાયબ્રેરી\n2. નેશનલ એકાકેમિક ડીપોસિટરી\n3. e યંત્ર\n4. e-શોધસિંધુ\n\nયાદી - II\na. ઊચ્ચ શિક્ષણની સંસ્થાઓને ઘણીય આંતરરાષ્ટ્રીય ઈલેક્ટ્રોનિક સામાયિકો અને ઈ બુક ઉપલબ્ધ કરાય છે\nb. ઈજેનિયરિંગ ભણતરમાં રોબોટિકલનું સમાવિષ્ટ કરવું\nc. શૈક્ષણિક ઓળખની ફાળવણી, સંગ્રહ ઉપયોગ અને ચકાસણીની ડીજીટલ (વિજાણું ) સહાય\nd. સિંગલ વિંડો શોધ સુવિધા સાથે અધ્યયન સંસાધનોનું આભાસી રિપોસ્ટિરી માટેનું માળખું તૈયાર કરવું",
+      "options_en": {
+        "A": "1-d, 2-b, 3-a, 4-c",
+        "B": "1-d, 2-b, 3-a, 4-c",
+        "C": "1-b, 2-d, 3-c, 4-a",
+        "D": "1-d, 2-b, 3-c, 4-a"
+      },
+      "options_gu": {
+        "A": "1-d, 2-b, 3-a, 4-c",
+        "B": "1-d, 2-b, 3-a, 4-c",
+        "C": "1-b, 2-d, 3-c, 4-a",
+        "D": "1-d, 2-b, 3-c, 4-a"
+      }
+    },
+    {
+      "question_number": 35,
+      "question_text_en": "Which of the following core principle has not been mentioned in National Education Policy 2020?",
+      "question_text_gu": "નેશનલ એજ્યુકેશન પોલીસી 2020 ના સંદર્ભમાં નીચે આપેલ વિકલ્પોમાં ક્યા મૂળ સિદ્ધાંતનો ઉલ્લેખ નથી થયો",
+      "options_en": {
+        "A": "Extensive use of Technology",
+        "B": "Respect for Global Diversity",
+        "C": "Synergy in curriculum",
+        "D": "Creativity and critical thinking"
+      },
+      "options_gu": {
+        "A": "તકનીકી નો વ્યાપક પ્રયોગ",
+        "B": "વૈશ્વિક વિવિધતા પ્રત્યે સમ્માન",
+        "C": "અભ્યાસક્રમમાં સુમેળ",
+        "D": "સર્જનાત્મકતા અને સમીક્ષિત ચિંતન"
+      }
+    },
+    {
+      "question_number": 36,
+      "question_text_en": "Match Section I with Section - II.\nSection I\n1. Haptics\n2. Proxemics\n3. Paralanguage\n4. Kinesics\n\nSection II\na. Use of body movement\nb. Use of space and effects\nc. Communication through touching\nd. Use of pitch and volume of voice",
+      "question_text_gu": "વિભાગ – I અને વિભાગ - IIને યોગ્ય રીતે જોડો.\nવિભાગ - I\n1. હેપ્ટીકસ\n2. પ્રોક્સેમિક્સ\n3. પેરાલેંવેજ\n4. કિનેસીક્સ\n\nવિભાગ – II\na. શારીરિક હલન – ચલનનો ઉપયોગ\nb. જગ્યા અને અસરનો ઉપયોગ\nc. સ્પર્શ દવારા પ્રત્યાયન\nd. અવાજની માત્રનો ઉપયોગ",
+      "options_en": {
+        "A": "1-a, 2-b, 3-c, 4-d",
+        "B": "1-b, 2-a, 3-d, 4-c",
+        "C": "1-c, 2-d, 3-a, 4-b",
+        "D": "1-c, 2-b, 3-d, 4-a"
+      },
+      "options_gu": {
+        "A": "1-a, 2-b, 3-c, 4-d",
+        "B": "1-b, 2-a, 3-d, 4-c",
+        "C": "1-c, 2-d, 3-a, 4-b",
+        "D": "1-c, 2-b, 3-d, 4-a"
+      }
+    },
+    {
+      "question_number": 37,
+      "question_text_en": "Which of the following are the example of communicative tool?\n1. Teleconferencing\n2. Voice mail\n3. Chat\n4. Multimedia Encyclopedia",
+      "question_text_gu": "નીચે પૈકી કયું પ્રત્યાયનના સાધનનું ઉદાહરણ છે ?\n1. ટેલિકોન્ફરેન્સિંગ\n2. વોઈસ મેઈલ\n3. ચેટ\n4. બહુમાધ્યમ જ્ઞાનકોશ",
+      "options_en": {
+        "A": "1, 3 and 4",
+        "B": "1, 2 and 3",
+        "C": "1, 2 and 4",
+        "D": "2, 3 and 4"
+      },
+      "options_gu": {
+        "A": "1, 3 ને 4",
+        "B": "1, 2 ને 3",
+        "C": "1, 2 ને 4",
+        "D": "2, 3 ને 4"
+      }
+    },
+    {
+      "question_number": 38,
+      "question_text_en": "Which is not a characteristics of Effective Communication?",
+      "question_text_gu": "નીચે પૈકી કયું અસરકારક પ્રત્યાયનનું લક્ષણ નથી.",
+      "options_en": {
+        "A": "Completeness",
+        "B": "Cultural heterogeneity",
+        "C": "Concreteness",
+        "D": "Correctness"
+      },
+      "options_gu": {
+        "A": "પૂર્ણતા",
+        "B": "સાંસ્કૃતિક વિષમતા",
+        "C": "નક્કરતા",
+        "D": "યોગ્યતા"
+      }
+    },
+    {
+      "question_number": 39,
+      "question_text_en": "Which of the following is not a component of a communication system ?",
+      "question_text_gu": "નીચે પૈકી શું પ્રત્યાયન તંત્રનું ઘટક નથી ?",
+      "options_en": {
+        "A": "Sender",
+        "B": "Message",
+        "C": "Feedback",
+        "D": "Reinforcement"
+      },
+      "options_gu": {
+        "A": "મોકલનાર",
+        "B": "સંદેશ",
+        "C": "પ્રતિપુષ્ટી",
+        "D": "સુદ્રઢક"
+      }
+    },
+    {
+      "question_number": 40,
+      "question_text_en": "What are the causes of semantic barriers in communication ?\n1. Poorly expressed message\n2. Use of technical language\n3. Unnatural assumption\n4. Lack of attention",
+      "question_text_gu": "નીચે પૈકી ક્યા પ્રત્યાયન માટે અવરોધરૂપ કારણો છે ?\n1. નબળી રીતે રજૂ થયેલ સંદેશો\n2. તફનિકી ભાષાને ઉપયોગ\n3. અયોગ્ય ધારણા\n4. ધ્યાનનો અભાવ",
+      "options_en": {
+        "A": "2, 3, 4",
+        "B": "1, 2, 3",
+        "C": "1, 3, 4",
+        "D": "1, 2, 4"
+      },
+      "options_gu": {
+        "A": "2, 3, 4",
+        "B": "1, 2, 3",
+        "C": "1, 3, 4",
+        "D": "1, 2, 4"
+      }
+    },
+    {
+      "question_number": 41,
+      "question_text_en": "Given below are two statements - One is labeled as Assertion (A) and the other is labeled as Reason (R).\nAssertion (A): Government of India has established higher educational bodies to ensure the quality of education.\nReason (R): There are some educational institutions in India which do not provide quality education.\nIn the context of the above two statements, choose the correct option.",
+      "question_text_gu": "નીચે આપેલ બે વિધાનો છે. એક વિધાનનું નામાભિધાન દાવો (A) અને અન્યનું નામાભિધાન કરણ (R) છે.\nદાવો(A): ભારત સરકારે શિક્ષણની ગુણવત્તા સુનિશ્ચિત કરવા ઉચ્ચ શૈક્ષણિક સંસ્થાઓ સ્થાપી છે.\nકરણ(R): ભારતમાં કેટલીક શૈક્ષણિક સંસ્થાઓ છે કે જે ગુણવત્તાયુક્ત શિક્ષણ આપતુ નથી.\nઉપરોક્ત બે વાક્યનાં સંદર્ભમાં, યોગ્ય ઉત્તર પસંદ કરો.",
+      "options_en": {
+        "A": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
+        "B": "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+        "C": "(A) is true, but (R) is false",
+        "D": "(A) is false, but (R) is true"
+      },
+      "options_gu": {
+        "A": "બંને (A) અને (R) સાચા છે અને (R) એ (A) ની યોગ્ય સ્પષ્ટતા છે",
+        "B": "બંને (A) અને (R) સાચા છે પણ (R) એ (A) ની યોગ્ય સ્પષ્ટતા નથી",
+        "C": "(A) સાચું છે, જયારે(R) ખોટું છે",
+        "D": "(A) ખોટું છે, પણ (R) સાચું છે"
+      }
+    },
+    {
+      "question_number": 42,
+      "question_text_en": "Which of the following statements are true in the context of Vyapti?\n1. It is the relation between middle and major term in the logical ground of inference.\n2. It means a state of pervasion.\n3. Vyapti serves a basis of Nyaya syllogism.",
+      "question_text_gu": "'વ્યાપ્તિ' ના સંદર્ભમાં નીચે પૈકી ક્યાં વિધાનો સાચા છે ?\n1. અનુમાનના તાર્કિક ક્ષેત્રમાં મધ્ય અને મુખ્ય શબ્દ વચ્ચેનો સંબંધ છે.\n2. તે વ્યાપક સ્થિતિ છે.\n3. વ્યાપ્તિ ન્યાયનો આધાર પૂરો પાડે છે.",
+      "options_en": {
+        "A": "1 and 2",
+        "B": "2 and 3",
+        "C": "1 and 3",
+        "D": "1, 2 and 3"
+      },
+      "options_gu": {
+        "A": "1 અને 2",
+        "B": "2 અને 3",
+        "C": "1 અને 3",
+        "D": "1, 2 ને 3"
+      }
+    },
+    {
+      "question_number": 43,
+      "question_text_en": "Find the next term of given series.\nATTRIBUTION, TTRIBUTIO, RIBUTIO, IBUTI....?",
+      "question_text_gu": "આપેલ હરોળ માંથી આવના શબ્દ શોધો.\nATTRIBUTION, TTRIBUTIO, RIBUTIO, IBUTI....?",
+      "options_en": {
+        "A": "BUT",
+        "B": "UTI",
+        "C": "UT",
+        "D": "IBU"
+      },
+      "options_gu": {
+        "A": "BUT",
+        "B": "UTI",
+        "C": "UT",
+        "D": "IBU"
+      }
+    },
+    {
+      "question_number": 44,
+      "question_text_en": "In a certain relationship\n$S\\times T$ means S is brother of T\nS-T means S is mother of T\n$S+T$ means S is father of T\nAnswer the following question based on data above.\nIn the pattern $M+N+O$ how is M related to O?",
+      "question_text_gu": "ચોક્કસ સંબંધોમાં\n$S\\times T$ એટલે S એ T નો ભાઈ છે.\nS-T એટલે S એ T ની માતા છે.\n$S+T$ એટલે S એ T ના પિતા છે.\nઉપરની માહિતી આધારે નીચેના પ્રશ્નનો જવાબ આપો.\n$M+N+O$ ની તરાહમાં, M કઈ રીતે O સાથે સંબંધિત છે ?",
+      "options_en": {
+        "A": "Uncle",
+        "B": "Father",
+        "C": "Cousin",
+        "D": "Grandfather"
+      },
+      "options_gu": {
+        "A": "કાકા/મામા",
+        "B": "પિતા",
+        "C": "સંબંધના ભાઈ /બહેન",
+        "D": "દાદા"
+      }
+    },
+    {
+      "question_number": 45,
+      "question_text_en": "Which of the following diagrams indicates the best relation between Travelers, Train and Bus?",
+      "question_text_gu": "નીચે પૈકી કઈ આકૃતિ પ્રવાસી, ટ્રેઈન અને બસ વચ્ચેના શ્રેષ્ઠ સંબંધને દર્શાવે છે",
+      "options_en": {
+        "A": "(Diagram A)",
+        "B": "(Diagram B)",
+        "C": "(Diagram C)",
+        "D": "(Diagram D)"
+      },
+      "options_gu": {
+        "A": "(Diagram A)",
+        "B": "(Diagram B)",
+        "C": "(Diagram C)",
+        "D": "(Diagram D)"
+      }
+    },
+    {
+      "question_number": 46,
+      "question_text_en": "How an achievement test is different from Entrance test ?",
+      "question_text_gu": "સિદ્ધિ કસૌટી પરીક્ષા ને પ્રવેશ પરીક્ષા માં ફર્ક શું ?",
+      "options_en": {
+        "A": "Achievement test needs high content validity whereas Entrance test needs high construct validity.",
+        "B": "Achievement test needs high construct validity whereas Entrance test needs high content validity.",
+        "C": "Achievement test needs high predictive validity whereas Entrance test needs high content validity.",
+        "D": "Achievement test needs high content validity whereas Entrance test needs high predictive validity."
+      },
+      "options_gu": {
+        "A": "સિદ્ધિ કસૌટી પરીક્ષામાં ઉચ્ચ વિષયવસ્તુ પ્રમાણભૂતતા હોય છે અને પ્રવેશ પરીક્ષામાં રચનાની ઉચ્ચ પ્રમાણભૂતતા હોય છે.",
+        "B": "સિદ્ધિ કસૌટી પરીક્ષામાં રચનાની ઉચ્ચ પ્રમાણભૂતતા હોય અને પ્રવેશ પરીક્ષામાં ઉચ્ચ વિષયવસ્તુ પ્રમાણભૂતતા હોય છે.",
+        "C": "સિદ્ધિ કસૌટી પરીક્ષામાં ઉચ્ચ ધારણાત્મક પ્રમાણભૂતતા હોય છે અને પ્રવેશ પરીક્ષામાં ઉચ્ચ વિષયવસ્તુ પ્રમાણભૂતતા હોય છે.",
+        "D": "સિદ્ધિ કસૌટી પરીક્ષામાં ઉચ્ચ વિષયવસ્તુ પ્રમાણભૂતતા હોય છે અને પ્રવેશ પરીક્ષામાં ઉચ્ચ ધારણાત્મક પ્રમાણભૂતતા હોય છે."
+      }
+    },
+    {
+      "question_number": 47,
+      "question_text_en": "Sequential use of the three levels of coding - open coding, selective coding and theoretical coding is done in",
+      "question_text_gu": "કોડિંગના ત્રણ સ્તનો ક્રમિક ઉપયોગ ઓપન કોડિંગ, સેલકટિંવ કોડિંગ, થયોરિટકલ કોડિંગ શેમાં કરાય છે",
+      "options_en": {
+        "A": "Phenomenological research",
+        "B": "Ethnographic research",
+        "C": "Grounded theory research",
+        "D": "Case study research"
+      },
+      "options_gu": {
+        "A": "ઘટનાશાસ્ત્રીય શોધ",
+        "B": "નૃવંશશાસ્ત્ર શોધ",
+        "C": "ભૂમિગત સિદ્ધાંત શોધ",
+        "D": "વ્યક્તિ અભ્યાસ શોધ"
+      }
+    },
+    {
+      "question_number": 48,
+      "question_text_en": "In a reaction scale, the scale values are from 0 to 5. Which of the following scales of measurement is applicable for the data collected by this scale ?",
+      "question_text_gu": "એક પ્રતિક્રિયા સ્કેલ ઉપર કિંમત 0 થી 5 છે. નીચે પૈકી કયો સ્કેલ માહિતી સંકલન માટે ઉપયોગમાં લેવાશે ?",
+      "options_en": {
+        "A": "Nominal scale",
+        "B": "Ordinal scale",
+        "C": "Interval scale",
+        "D": "Ratio scale"
+      },
+      "options_gu": {
+        "A": "ઓળખ માપ",
+        "B": "અનુક્રમ માપ",
+        "C": "અંતરાલ માપ",
+        "D": "ગુણોત્તર માપ"
+      }
+    },
+    {
+      "question_number": 49,
+      "question_text_en": "Which of the following is a normal group ?",
+      "question_text_gu": "આમાથી કયો સામાન્ય ગ્રુપ છે ?",
+      "options_en": {
+        "A": "Skewness is zero and it is Platykurtic",
+        "B": "Mean = Median = Mode and it is Leptokurtic",
+        "C": "Mean = Median = Mode and it is Platykurtic",
+        "D": "Skewness is zero and it is Mesokurtic"
+      },
+      "options_gu": {
+        "A": "સ્ક્યુનેસ ઝીરો છે અને એ પ્લેટીકર્ટીક છે",
+        "B": "મીન = મીડિયન = મોડ અને એ લેપટોકર્ટીક છે",
+        "C": "મીન = મીડિયન = મોડ અને એ લેપટોકર્ટીક છે (Note: Gujarati translation repeats Leptokurtic for C, likely error in source text for Platykurtic translation)",
+        "D": "સ્ક્યુનેસ ઝીરો છે અને એ મેસોકર્ટીક છે"
+      }
+    },
+    {
+      "question_number": 50,
+      "question_text_en": "The transformation of human mind from theological metaphysical to a rational and scientific belief led to the emergence of",
+      "question_text_gu": "માનવમનનું ધર્મશાસ્ત્રીય અને તાત્વિક ભૌતિકથી તાર્કિક અને વૈજ્ઞાનિક માનવજાતમાં પરિવર્તનના કારણે ઉદ્ભવ થાય છે -",
+      "options_en": {
+        "A": "Holism",
+        "B": "Rationalism",
+        "C": "Critical consciousness",
+        "D": "Positivism"
+      },
+      "options_gu": {
+        "A": "સમગ્રતાવાદ",
+        "B": "તકેવાદ",
+        "C": "સમીક્ષિત સભાનપણુ",
+        "D": "હકારાત્મકતાવાદ"
+      }
+    }
+  ]
+}
